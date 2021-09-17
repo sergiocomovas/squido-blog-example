@@ -18,7 +18,7 @@ const config = {
         name: 'COMOVAS |『CØMO』『VAS』.ES | ',
         description: '¿Cómo vas? Nosotros vamos tirando con NWO, GAMING, TECH, SALSEO, PODCASTS y mucho más...',
         twitterHandle: '@sergiocomovas',
-        baseUrl: 'sergiocomovas.github.io',
+        baseUrl: 'https://sergiocomovas.github.io',
         sourcesExt: 'markdown',
         templateEngine: 'hbs',
         templateConfig: {},

@@ -1,5 +1,5 @@
 const config = {
-    development: {
+    production: {
         name: 'squido',
         description: 'This is the blog description',
         twitterHandle: '@mrvautin',
@@ -14,7 +14,7 @@ const config = {
         pagination: true,
         postPerPage: 8
     },
-    production: {
+    development: {
         name: 'COMOVAS |『CØMO』『VAS』.ES |',
         description: '¿Cómo vas? Nosotros vamos tirando con NWO, GAMING, TECH, SALSEO y PODCASTS',
         twitterHandle: '@mrvautin',

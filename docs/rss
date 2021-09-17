@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>squido</title>
-        <link>http://localhost:4965</link>
-        <description>This is the blog description</description>
-        <lastBuildDate>Fri, 17 Sep 2021 21:06:35 GMT</lastBuildDate>
+        <title>COMOVAS |『CØMO』『VAS』.ES |</title>
+        <link>https://sergiocomovas.github.io/webcomovas/</link>
+        <description>¿Cómo vas? Nosotros vamos tirando con NWO, GAMING, TECH, SALSEO y PODCASTS</description>
+        <lastBuildDate>Fri, 17 Sep 2021 21:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>squido</generator>
-        <atom:link href="http://localhost:4965/rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://sergiocomovas.github.io/webcomovas//rss" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[📌 Cómo Vas - Página de Proyectos (01)]]></title>
-            <link>http://localhost:4965/proyectos2022-01</link>
-            <guid>http://localhost:4965/proyectos2022-01</guid>
+            <link>https://sergiocomovas.github.io/webcomovas//proyectos2022-01</link>
+            <guid>https://sergiocomovas.github.io/webcomovas//proyectos2022-01</guid>
             <pubDate>Sat, 17 Sep 2022 11:33:00 GMT</pubDate>
             <description><![CDATA[Colabora con nosotros y pierde el tiempo. Tranquilo, "todo sirve para la jubilación".]]></description>
             <content:encoded><![CDATA[<h2 id="umbram-cum-est-stagna">Umbram cum est stagna</h2>
@@ -87,8 +87,8 @@ denos, praesentia motis qui Eurylochumque ante non.</p>
         </item>
         <item>
             <title><![CDATA[Recomendaciones mesuales (01)]]></title>
-            <link>http://localhost:4965/recomendaciones-01</link>
-            <guid>http://localhost:4965/recomendaciones-01</guid>
+            <link>https://sergiocomovas.github.io/webcomovas//recomendaciones-01</link>
+            <guid>https://sergiocomovas.github.io/webcomovas//recomendaciones-01</guid>
             <pubDate>Fri, 17 Sep 2021 11:46:00 GMT</pubDate>
             <description><![CDATA[De lo que estoy haciendo, esto es lo que recomiendo.]]></description>
             <content:encoded><![CDATA[<h2 id="recomendaciones-mensuales">RECOMENDACIONES MENSUALES</h2>
@@ -108,8 +108,8 @@ denos, praesentia motis qui Eurylochumque ante non.</p>
         </item>
         <item>
             <title><![CDATA[En Destiny (01)]]></title>
-            <link>http://localhost:4965/destiny-01</link>
-            <guid>http://localhost:4965/destiny-01</guid>
+            <link>https://sergiocomovas.github.io/webcomovas//destiny-01</link>
+            <guid>https://sergiocomovas.github.io/webcomovas//destiny-01</guid>
             <pubDate>Fri, 17 Sep 2021 11:45:00 GMT</pubDate>
             <description><![CDATA[Primer episodio de lo que está pasando en destiny.]]></description>
             <content:encoded><![CDATA[<h2 id="en-destiny-01">EN DESTINY 01</h2>
@@ -119,8 +119,8 @@ denos, praesentia motis qui Eurylochumque ante non.</p>
         </item>
         <item>
             <title><![CDATA[Tuits del mes (01) - Agosto 2021]]></title>
-            <link>http://localhost:4965/tuits-01</link>
-            <guid>http://localhost:4965/tuits-01</guid>
+            <link>https://sergiocomovas.github.io/webcomovas//tuits-01</link>
+            <guid>https://sergiocomovas.github.io/webcomovas//tuits-01</guid>
             <pubDate>Fri, 17 Sep 2021 11:33:00 GMT</pubDate>
             <description><![CDATA[De los tuits que sobreviven a la purga, estos son los que más me gustan.]]></description>
             <content:encoded><![CDATA[<p>##TUIS DEL MES</p>
@@ -141,8 +141,8 @@ charset="utf-8">
         </item>
         <item>
             <title><![CDATA[About page]]></title>
-            <link>http://localhost:4965/about</link>
-            <guid>http://localhost:4965/about</guid>
+            <link>https://sergiocomovas.github.io/webcomovas//about</link>
+            <guid>https://sergiocomovas.github.io/webcomovas//about</guid>
             <pubDate>Thu, 11 Mar 2021 18:17:00 GMT</pubDate>
             <description><![CDATA[About page]]></description>
             <content:encoded><![CDATA[<p>Lorem <strong>markdownum</strong>, pro scopulis hoste: aequore transire et calido illas.

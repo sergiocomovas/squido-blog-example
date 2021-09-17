@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4965</id>
-    <title>squido</title>
-    <updated>2021-09-17T21:06:35.184Z</updated>
+    <id>https://sergiocomovas.github.io/webcomovas/</id>
+    <title>COMOVAS |『CØMO』『VAS』.ES |</title>
+    <updated>2021-09-17T21:20:16.137Z</updated>
     <generator>squido</generator>
-    <link rel="alternate" href="http://localhost:4965"/>
-    <link rel="self" href="http://localhost:4965/atom"/>
-    <subtitle>This is the blog description</subtitle>
-    <icon>http://localhost:4965/favicon.png</icon>
+    <link rel="alternate" href="https://sergiocomovas.github.io/webcomovas/"/>
+    <link rel="self" href="https://sergiocomovas.github.io/webcomovas//atom"/>
+    <subtitle>¿Cómo vas? Nosotros vamos tirando con NWO, GAMING, TECH, SALSEO y PODCASTS</subtitle>
+    <icon>https://sergiocomovas.github.io/webcomovas//favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[📌 Cómo Vas - Página de Proyectos (01)]]></title>
-        <id>http://localhost:4965/proyectos2022-01</id>
-        <link href="http://localhost:4965/proyectos2022-01"/>
+        <id>https://sergiocomovas.github.io/webcomovas//proyectos2022-01</id>
+        <link href="https://sergiocomovas.github.io/webcomovas//proyectos2022-01"/>
         <updated>2022-09-17T11:33:00.000Z</updated>
         <summary type="html"><![CDATA[Colabora con nosotros y pierde el tiempo. Tranquilo, "todo sirve para la jubilación".]]></summary>
         <content type="html"><![CDATA[<h2 id="umbram-cum-est-stagna">Umbram cum est stagna</h2>
@@ -87,8 +87,8 @@ denos, praesentia motis qui Eurylochumque ante non.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Recomendaciones mesuales (01)]]></title>
-        <id>http://localhost:4965/recomendaciones-01</id>
-        <link href="http://localhost:4965/recomendaciones-01"/>
+        <id>https://sergiocomovas.github.io/webcomovas//recomendaciones-01</id>
+        <link href="https://sergiocomovas.github.io/webcomovas//recomendaciones-01"/>
         <updated>2021-09-17T11:46:00.000Z</updated>
         <summary type="html"><![CDATA[De lo que estoy haciendo, esto es lo que recomiendo.]]></summary>
         <content type="html"><![CDATA[<h2 id="recomendaciones-mensuales">RECOMENDACIONES MENSUALES</h2>
@@ -108,8 +108,8 @@ denos, praesentia motis qui Eurylochumque ante non.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[En Destiny (01)]]></title>
-        <id>http://localhost:4965/destiny-01</id>
-        <link href="http://localhost:4965/destiny-01"/>
+        <id>https://sergiocomovas.github.io/webcomovas//destiny-01</id>
+        <link href="https://sergiocomovas.github.io/webcomovas//destiny-01"/>
         <updated>2021-09-17T11:45:00.000Z</updated>
         <summary type="html"><![CDATA[Primer episodio de lo que está pasando en destiny.]]></summary>
         <content type="html"><![CDATA[<h2 id="en-destiny-01">EN DESTINY 01</h2>
@@ -119,8 +119,8 @@ denos, praesentia motis qui Eurylochumque ante non.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tuits del mes (01) - Agosto 2021]]></title>
-        <id>http://localhost:4965/tuits-01</id>
-        <link href="http://localhost:4965/tuits-01"/>
+        <id>https://sergiocomovas.github.io/webcomovas//tuits-01</id>
+        <link href="https://sergiocomovas.github.io/webcomovas//tuits-01"/>
         <updated>2021-09-17T11:33:00.000Z</updated>
         <summary type="html"><![CDATA[De los tuits que sobreviven a la purga, estos son los que más me gustan.]]></summary>
         <content type="html"><![CDATA[<p>##TUIS DEL MES</p>
@@ -141,8 +141,8 @@ charset="utf-8">
     </entry>
     <entry>
         <title type="html"><![CDATA[About page]]></title>
-        <id>http://localhost:4965/about</id>
-        <link href="http://localhost:4965/about"/>
+        <id>https://sergiocomovas.github.io/webcomovas//about</id>
+        <link href="https://sergiocomovas.github.io/webcomovas//about"/>
         <updated>2021-03-11T18:17:00.000Z</updated>
         <summary type="html"><![CDATA[About page]]></summary>
         <content type="html"><![CDATA[<p>Lorem <strong>markdownum</strong>, pro scopulis hoste: aequore transire et calido illas.

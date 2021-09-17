@@ -15,25 +15,17 @@ const config = {
         postPerPage: 8
     },
     production: {
-        name: 'COMOVAS |『CØMO』『VAS』.ES | ',
-        description: '¿Cómo vas? Nosotros vamos tirando con NWO, GAMING, TECH, SALSEO, PODCASTS y mucho más...',
-        twitterHandle: '@sergiocomovas',
+        name: 'COMOVAS |『CØMO』『VAS』.ES |',
+        description: '¿Cómo vas? Nosotros vamos tirando con NWO, GAMING, TECH, SALSEO y PODCASTS',
+        twitterHandle: '@mrvautin',
         baseUrl: 'https://sergiocomovas.github.io',
         sourcesExt: 'markdown',
-        templateEngine: 'hbs',
-        templateConfig: {},
         sourceDir: 'source',
         buildDir: 'docs',
         summaryLength: 250,
         port: 4965,
         pagination: true,
-        postPerPage: 8,
-        postBuild: [
-            {
-                name: 'zip',
-                options: {}
-            }
-        ]
+        postPerPage: 8
     }
 };
 

@@ -4,7 +4,7 @@
         <title>squido</title>
         <link>http://localhost:4965</link>
         <description>This is the blog description</description>
-        <lastBuildDate>Fri, 17 Sep 2021 21:00:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 21:06:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>squido</generator>
         <atom:link href="http://localhost:4965/rss" rel="self" type="application/rss+xml"/>

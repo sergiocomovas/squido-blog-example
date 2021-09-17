@@ -5,6 +5,25 @@ const config = {
         twitterHandle: '@mrvautin',
         baseUrl: 'http://localhost:4965',
         sourcesExt: 'markdown',
+        templateEngine: 'hbs',
+        templateConfig: {},
+        sourceDir: 'source',
+        buildDir: 'build',
+        summaryLength: 250,
+        port: 4965,
+        pagination: true,
+        postPerPage: 8
+    },
+    production: {
+        name: 'COMOVAS |『CØMO』『VAS』.ES | ',
+        description: '¿Cómo vas? Nosotros vamos tirando con NWO, GAMING, TECH, SALSEO, PODCASTS y mucho más...',
+        twitterHandle: '@sergiocomovas',
+        baseUrl: 'http://comovas.es',
+        sourcesExt: 'markdown',
+        templateEngine: 'hbs',
+        templateConfig: {},
+        sourceDir: 'source',
+        buildDir: 'build',
         summaryLength: 250,
         port: 4965,
         pagination: true,
@@ -15,17 +34,6 @@ const config = {
                 options: {}
             }
         ]
-    },
-    production: {
-        name: 'squido',
-        description: 'This is the blog description',
-        twitterHandle: '@mrvautin',
-        baseUrl: 'https://blog.squido.org',
-        sourcesExt: 'markdown',
-        summaryLength: 250,
-        port: 4965,
-        pagination: true,
-        postPerPage: 8
     }
 };
 

@@ -1,17 +1,17 @@
-<div class="row">
-  <h1>Tag: {{tag}}</h1>
+<div>
+  <h1>Entradas relacionadas con la etiqueta: {{tag}}</h1>
   {{#each posts}}
-  <div class="col-xs-12 col-md-6 col-lg-3 mb-4 d-flex align-items-stretch">
-    <div class="card shadow-sm">
-      <div class="card-body">
-        <p class="card-text">
+  <div>
+    <div>
+      <div>
+        <p>
           <h2>
             <a href="/{{this.permalink}}">{{this.title}}</a> 
           </h2>
           {{this.summary}}
         </p>
-        <div class="d-flex justify-content-between align-items-center">
-          <a class="btn btn-outline-secondary" href="/{{this.permalink}}">Read more..</a>
+        <div>
+          <a href="/{{this.permalink}}">SIGA LEYENDO…</a>
         </div>
       </div>
     </div>

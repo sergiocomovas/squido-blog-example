@@ -1,37 +1,35 @@
-<div class="row">
+<!--COMPLETADO 100%-->
+
+<!-- REPETIBLE TARJETAS POST-->
+<section>
   {{#each posts}}
-  <div class="col-xs-12 col-md-6 col-lg-3 mb-4 d-flex align-items-stretch">
-    <div class="card shadow-sm">
-      <div class="card-body">
-        <p class="card-text">
+  <section>
+    <aside>
           <h2>
-            <a href="/{{this.permalink}}">{{this.title}}</a> 
+            🟦<a style="text-shadow: 0 0 5px #000;" href="/{{this.permalink}}"> {{this.title}}</a> 
           </h2>
-          {{this.summary}}
-        </p>
-        <div class="d-flex justify-content-between align-items-center">
-          <a class="btn btn-outline-secondary" href="/{{this.permalink}}">Read more..</a>
-        </div>
-      </div>
-    </div>
-  </div>
+          <p><strong>{{this.description}}</strong></p>
+          <p>{{this.summary}}…</p>
+          <a href="/{{this.permalink}}"><em>Seguir leyendo…</em></a>
+    </aside>
+  </section>
   {{/each}}
-</div>
-{{!-- Pagination --}}
+</section>
+
+<!-- REPLETIBLE PAGINACIÓN -->
 {{#if config.pagination}}
 {{#if shouldPaginate}}
-<div class="row">
-  <div class="col-xs-12 col-sm-12 mb-4 text-center">
-    <p class="text-muted">Page {{page}} of {{pages}}</p>
-    <div class="btn-group" role="group">
+<header>
+  
+    <h3>Página {{page}} de {{pages}}</h3>
+    <div>
     {{#if prevPage }}
-        <a href="/page/{{prevPage}}" class="btn btn-outline-secondary">&laquo; Prev Page</a>
+        <a href="/page/{{prevPage}}"><button>&laquo; Atrás</button></a>
     {{/if}}
     {{#if nextPage }}
-        <a href="/page/{{nextPage}}" class="btn btn-outline-secondary">Next Page &raquo;</a>
+        <a href="/page/{{nextPage}}"><button>Siguiente &raquo;</button></a>
     {{/if}}
     </div>
-  </div>
-</div>
+</header>
 {{/if}}
 {{/if}}

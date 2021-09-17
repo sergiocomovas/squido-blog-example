@@ -1,11 +1,12 @@
 ---
-title: Alter tradere
-permalink: alter-tradere
-description: Alter tradere
-date: '2021-03-11 19:17:00'
+title: 📌 Cómo Vas - Página de Proyectos (01)
+permalink: proyectos2022-01
+description: Colabora con nosotros y pierde el tiempo. Tranquilo, "todo sirve para la jubilación".
+date: '2022-09-17 13:33:00'
 tags: 
-  - alter
-  - tradere
+  - comovas
+  - proyectos
+  - 2022
 ---
 
 ## Umbram cum est stagna

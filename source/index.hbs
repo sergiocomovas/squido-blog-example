@@ -1,37 +1,70 @@
-<div class="row">
-  {{#each posts}}
-  <div class="col-xs-12 col-md-6 col-lg-3 mb-4 d-flex align-items-stretch">
-    <div class="card shadow-sm">
-      <div class="card-body">
-        <div class="card-text">
+<!--COMPLETADO 100%-->
+
+<!--SOLO INDICE-->
+
+<header>
+  <figure>
+    <img style="opacity: 0.7;" src="content/images/comovas_portada.png" width="800">
+    <figcaption style="color:white; opacity: 0.7;">"Solo hay 2700 multimilmillonarios. 5 centimilmillonarios. El número uno es calvo. Piénsalo."</figcaption>
+  </figure>
+</header>
+
+
+<article>
+  <aside>
+    <p><sup>NUEVO</sup> ¡Colabora con nosotros! Mira nuestra <a href="/proyectos2022">página de proyectos</a> y ponte en contacto por <a href="mailto:sergio@comovas.es">email</a> o <a href="https://www.twitter.es/sergiocomovas" target="_blank">RRSS</a>  </p>
+  </aside>
+</article>
+
+
+<!-- REPETIBLE TARJETAS POST-->
+<section>
+  <section>
+    <aside style="background-color:#25455F">
           <h2>
-            <a href="/{{this.permalink}}">{{this.title}}</a> 
+            📌
           </h2>
-          {{this.summary}}
-        </div>
-        <div class="d-flex justify-content-between align-items-center">
-          <a class="btn btn-outline-secondary" href="/{{this.permalink}}">Read more..</a>
-        </div>
-      </div>
-    </div>
-  </div>
+          <h3>Redes Sociales</h3>
+          
+            <li><a href="https://twitter.com/sergiocomovas" target="_blank">Twitter (Cuenta Personal)</a></li>
+            <li><a href="https://twitter.com/avisoscomovas" target="_blank">Twitter </a></li>
+            <li><a href="https://twitch.tv/sergiocomovas" target="_blank">Twitch</a></li>
+            <li><a href="https://dlive.tv/sergiocomovas" target="_blank">DLive</a></li>
+          
+          <h3>Telegram</h3>
+            <li><a href="https://t.me/canalpirata" target="_blank">Canal Pirata</a></li>
+            <li><a href="https://t.me/chatpirata" target="_blank">Chat Pirata</a></li>  
+    </aside>
+  </section> 
+ <!-- REPETIBLE TARJETAS POST-->
+  {{#each posts}}
+  <section>
+    <aside>
+          <h2>
+            🟦<a style="text-shadow: 0 0 5px #000;" href="/{{this.permalink}}"> {{this.title}}</a> 
+          </h2>
+          <p><strong>{{this.description}}</strong></p>
+          <p>{{this.summary}}…</p>
+          <a href="/{{this.permalink}}"><em>Seguir leyendo…</em></a>
+    </aside>
+  </section>
   {{/each}}
-</div>
-{{!-- Pagination --}}
+</section>
+
+<!-- REPLETIBLE PAGINACIÓN -->
 {{#if config.pagination}}
 {{#if shouldPaginate}}
-<div class="row">
-  <div class="col-xs-12 col-sm-12 mb-4 text-center">
-    <p class="text-muted">Page {{page}} of {{pages}}</p>
-    <div class="btn-group" role="group">
+<header>
+  
+    <h3>Página {{page}} de {{pages}}</h3>
+    <div>
     {{#if prevPage }}
-        <a href="/page/{{prevPage}}" class="btn btn-outline-secondary">&laquo; Prev Page</a>
+        <a href="/page/{{prevPage}}"><button>&laquo; Atrás</button></a>
     {{/if}}
     {{#if nextPage }}
-        <a href="/page/{{nextPage}}" class="btn btn-outline-secondary">Next Page &raquo;</a>
+        <a href="/page/{{nextPage}}"><button>Siguiente &raquo;</button></a>
     {{/if}}
     </div>
-  </div>
-</div>
+</header>
 {{/if}}
 {{/if}}

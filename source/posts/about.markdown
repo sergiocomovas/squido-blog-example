@@ -7,6 +7,7 @@ visible: false
 hidden: false
 ---
 
+![](../content/images/posts/2021-09-17-23-45-04.png)
 Lorem **markdownum**, pro scopulis hoste: aequore transire et calido illas.
 Fores ignes solus: quam tamen velocius lupi nepoti meliora tempora ulterius.
 

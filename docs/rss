@@ -4,7 +4,7 @@
         <title>COMOVAS |『CØMO』『VAS』.ES |</title>
         <link>https://sergiocomovas.github.io/webcomovas/</link>
         <description>¿Cómo vas? Nosotros vamos tirando con NWO, GAMING, TECH, SALSEO y PODCASTS</description>
-        <lastBuildDate>Fri, 17 Sep 2021 21:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Sep 2021 21:45:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>squido</generator>
         <atom:link href="https://sergiocomovas.github.io/webcomovas//rss" rel="self" type="application/rss+xml"/>
@@ -145,7 +145,8 @@ charset="utf-8">
             <guid>https://sergiocomovas.github.io/webcomovas//about</guid>
             <pubDate>Thu, 11 Mar 2021 18:17:00 GMT</pubDate>
             <description><![CDATA[About page]]></description>
-            <content:encoded><![CDATA[<p>Lorem <strong>markdownum</strong>, pro scopulis hoste: aequore transire et calido illas.
+            <content:encoded><![CDATA[<p><img src="../content/images/posts/2021-09-17-23-45-04.png" alt="">
+Lorem <strong>markdownum</strong>, pro scopulis hoste: aequore transire et calido illas.
 Fores ignes solus: quam tamen velocius lupi nepoti meliora tempora ulterius.</p>
 <p>Quod coeamus sacra. Clamore et fistula alta una laetatur aliud deberi posset, et
 est mentisque et <a href="https://www.terra.es" target="_blank">COSITO</a> mugitibus

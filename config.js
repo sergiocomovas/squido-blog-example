@@ -23,7 +23,7 @@ const config = {
         templateEngine: 'hbs',
         templateConfig: {},
         sourceDir: 'source',
-        buildDir: 'build',
+        buildDir: 'docs',
         summaryLength: 250,
         port: 4965,
         pagination: true,

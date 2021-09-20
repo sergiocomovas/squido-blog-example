@@ -16,14 +16,14 @@ tags:
 
 ## BLOG
 
-- He usado <a href="https://docs.squido.org/" target="_blank">SQUIDO</a> para realizar la base del blog. Los estilos de CSS son de <a target="_blank" href="https://andybrewer.github.io/mvp/">MVP.CSS</a>
+- He usado <a href="https://docs.squido.org/" target="_blank">SQUIDO</a> para realizar la base del blog. Los estilos de CSS son de <a target="_blank" href="https://andybrewer.github.io/mvp/">MVPCSS</a>.
 
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="sergiocomovas/4" data-width="100%"></script>
 
 ## ALOJAMIENTO
 
-- El alojamiento está en GITHUB. Podéis ver el repositorio público <a href="https://github.com/sergiocomovas/webcomovas" target="blank">aquí</a>
+- El alojamiento está en GITHUB. Podéis ver el repositorio público <a href="https://github.com/sergiocomovas/webcomovas" target="_blank">aquí</a>.
 
 ## MENSAJE DE COOKIES
 
-- Lo encontré en <a href="https://codeshack.io/eu-cookie-consent-popup-javascript/" target="_blank">esta web</a>
+- Lo encontré en <a href="https://codeshack.io/eu-cookie-consent-popup-javascript/" target="_blank">esta web</a>.

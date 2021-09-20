@@ -15,7 +15,7 @@ const config = {
         postPerPage: 8
     },
     development: {
-        name: 'COMOVAS |『CØMO』『VAS』.ES |',
+        name: 'COMOVAS | 『CØMO』『VAS』.ES |',
         description: '¿Cómo vas? Nosotros vamos tirando con NWO, GAMING, TECH, SALSEO y PODCASTS',
         twitterHandle: '@mrvautin',
         baseUrl: 'https://web.comovas.es',

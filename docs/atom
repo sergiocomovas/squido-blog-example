@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://sergiocomovas.github.io/webcomovas/</id>
-    <title>COMOVAS |『CØMO』『VAS』.ES |</title>
-    <updated>2021-09-17T21:45:25.527Z</updated>
+    <id>https://web.comovas.es</id>
+    <title>COMOVAS | 『CØMO』『VAS』.ES |</title>
+    <updated>2021-09-20T18:17:40.198Z</updated>
     <generator>squido</generator>
-    <link rel="alternate" href="https://sergiocomovas.github.io/webcomovas/"/>
-    <link rel="self" href="https://sergiocomovas.github.io/webcomovas//atom"/>
+    <link rel="alternate" href="https://web.comovas.es"/>
+    <link rel="self" href="https://web.comovas.es/atom"/>
     <subtitle>¿Cómo vas? Nosotros vamos tirando con NWO, GAMING, TECH, SALSEO y PODCASTS</subtitle>
-    <icon>https://sergiocomovas.github.io/webcomovas//favicon.png</icon>
+    <icon>https://web.comovas.es/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[📌 Cómo Vas - Página de Proyectos (01)]]></title>
-        <id>https://sergiocomovas.github.io/webcomovas//proyectos2022-01</id>
-        <link href="https://sergiocomovas.github.io/webcomovas//proyectos2022-01"/>
+        <id>https://web.comovas.es/proyectos2022-01</id>
+        <link href="https://web.comovas.es/proyectos2022-01"/>
         <updated>2022-09-17T11:33:00.000Z</updated>
         <summary type="html"><![CDATA[Colabora con nosotros y pierde el tiempo. Tranquilo, "todo sirve para la jubilación".]]></summary>
         <content type="html"><![CDATA[<h2 id="umbram-cum-est-stagna">Umbram cum est stagna</h2>
@@ -87,8 +87,8 @@ denos, praesentia motis qui Eurylochumque ante non.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[Recomendaciones mesuales (01)]]></title>
-        <id>https://sergiocomovas.github.io/webcomovas//recomendaciones-01</id>
-        <link href="https://sergiocomovas.github.io/webcomovas//recomendaciones-01"/>
+        <id>https://web.comovas.es/recomendaciones-01</id>
+        <link href="https://web.comovas.es/recomendaciones-01"/>
         <updated>2021-09-17T11:46:00.000Z</updated>
         <summary type="html"><![CDATA[De lo que estoy haciendo, esto es lo que recomiendo.]]></summary>
         <content type="html"><![CDATA[<h2 id="recomendaciones-mensuales">RECOMENDACIONES MENSUALES</h2>
@@ -108,8 +108,8 @@ denos, praesentia motis qui Eurylochumque ante non.</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[En Destiny (01)]]></title>
-        <id>https://sergiocomovas.github.io/webcomovas//destiny-01</id>
-        <link href="https://sergiocomovas.github.io/webcomovas//destiny-01"/>
+        <id>https://web.comovas.es/destiny-01</id>
+        <link href="https://web.comovas.es/destiny-01"/>
         <updated>2021-09-17T11:45:00.000Z</updated>
         <summary type="html"><![CDATA[Primer episodio de lo que está pasando en destiny.]]></summary>
         <content type="html"><![CDATA[<h2 id="en-destiny-01">EN DESTINY 01</h2>
@@ -118,9 +118,32 @@ denos, praesentia motis qui Eurylochumque ante non.</p>
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tecnologías Empleadas en esta Web]]></title>
+        <id>https://web.comovas.es/webtec</id>
+        <link href="https://web.comovas.es/webtec"/>
+        <updated>2021-09-17T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Usamos códigos de terceros para hacerte llegar esta web.]]></summary>
+        <content type="html"><![CDATA[<h1 id="introducci%C3%B3n">INTRODUCCIÓN</h1>
+<h3 id="para-realizar-esta-web-usamos-tecnolog%C3%ADas-de-terceros.-la-premisa-para-usarlas-es-que-sean-c%C3%B3digos-libres-y-minimalistas.-aqu%C3%AD-te-las-menciono%3A">Para realizar esta web usamos tecnologías de terceros. La premisa para usarlas es que sean códigos libres y minimalistas. Aquí te las menciono:</h3>
+<h2 id="blog">BLOG</h2>
+<ul>
+<li>He usado <a href="https://docs.squido.org/" target="_blank">SQUIDO</a> para realizar la base del blog. Los estilos de CSS son de <a href="https://andybrewer.github.io/mvp/">MVP.CSS</a></li>
+</ul>
+<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="sergiocomovas/4" data-width="100%"></script>
+<h2 id="alojamiento">ALOJAMIENTO</h2>
+<ul>
+<li>El alojamiento está en GITHUB. Podéis ver el repositorio público <a href="https://github.com/sergiocomovas/webcomovas" target="blank">aquí</a></li>
+</ul>
+<h2 id="mensaje-de-cookies">MENSAJE DE COOKIES</h2>
+<ul>
+<li>Lo encontré en <a href="https://codeshack.io/eu-cookie-consent-popup-javascript/" target="_blank">esta web</a></li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tuits del mes (01) - Agosto 2021]]></title>
-        <id>https://sergiocomovas.github.io/webcomovas//tuits-01</id>
-        <link href="https://sergiocomovas.github.io/webcomovas//tuits-01"/>
+        <id>https://web.comovas.es/tuits-01</id>
+        <link href="https://web.comovas.es/tuits-01"/>
         <updated>2021-09-17T11:33:00.000Z</updated>
         <summary type="html"><![CDATA[De los tuits que sobreviven a la purga, estos son los que más me gustan.]]></summary>
         <content type="html"><![CDATA[<p>##TUIS DEL MES</p>
@@ -141,11 +164,15 @@ charset="utf-8">
     </entry>
     <entry>
         <title type="html"><![CDATA[About page]]></title>
-        <id>https://sergiocomovas.github.io/webcomovas//about</id>
-        <link href="https://sergiocomovas.github.io/webcomovas//about"/>
+        <id>https://web.comovas.es/about</id>
+        <link href="https://web.comovas.es/about"/>
         <updated>2021-03-11T18:17:00.000Z</updated>
         <summary type="html"><![CDATA[About page]]></summary>
-        <content type="html"><![CDATA[<p><img src="../content/images/posts/2021-09-17-23-45-04.png" alt="">
+        <content type="html"><![CDATA[<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="canalpirata/24" data-width="100%"></script>
+<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="canalpirata/23" data-width="100%"></script>
+<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="canalpirata/25" data-width="100%"></script>
+<p><img src="../content/images/posts/2021-09-17-23-45-04.png" alt=""></p>
+<p><img src="../content/images/posts/2021-09-18-00-41-29.png" alt="">
 Lorem <strong>markdownum</strong>, pro scopulis hoste: aequore transire et calido illas.
 Fores ignes solus: quam tamen velocius lupi nepoti meliora tempora ulterius.</p>
 <p>Quod coeamus sacra. Clamore et fistula alta una laetatur aliud deberi posset, et

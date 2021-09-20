@@ -7,7 +7,18 @@ visible: false
 hidden: false
 ---
 
+<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="canalpirata/24" data-width="100%"></script>
+
+<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="canalpirata/23" data-width="100%"></script>
+
+
+<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="canalpirata/25" data-width="100%"></script>
+
+
 ![](../content/images/posts/2021-09-17-23-45-04.png)
+
+
+![](../content/images/posts/2021-09-18-00-41-29.png)
 Lorem **markdownum**, pro scopulis hoste: aequore transire et calido illas.
 Fores ignes solus: quam tamen velocius lupi nepoti meliora tempora ulterius.
 

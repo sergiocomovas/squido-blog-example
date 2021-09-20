@@ -30,13 +30,12 @@
 
     {{#each related}}
         {{#ifCond @index '<' 3}}
-        
-        <a href="/{{../this.url}}">
+        <a href="../{{../this.permalink}}">
             <aside style="height:8em;">
                 <h4>
                 {{../this.title}}
                 </h4>
-            </aside>
+             </aside>
         </a>
         {{/ifCond}}
     {{/each}}

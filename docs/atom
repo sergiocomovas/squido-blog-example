@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://web.comovas.es</id>
     <title>COMOVAS | 『CØMO』『VAS』.ES |</title>
-    <updated>2021-09-20T18:53:00.510Z</updated>
+    <updated>2021-09-20T22:45:44.287Z</updated>
     <generator>squido</generator>
     <link rel="alternate" href="https://web.comovas.es"/>
     <link rel="self" href="https://web.comovas.es/atom"/>
@@ -118,29 +118,6 @@ denos, praesentia motis qui Eurylochumque ante non.</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tecnologías Empleadas en esta Web]]></title>
-        <id>https://web.comovas.es/webtec</id>
-        <link href="https://web.comovas.es/webtec"/>
-        <updated>2021-09-17T11:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Usamos códigos de terceros para hacerte llegar esta web.]]></summary>
-        <content type="html"><![CDATA[<h1 id="introducci%C3%B3n">INTRODUCCIÓN</h1>
-<h3 id="para-realizar-esta-web-usamos-tecnolog%C3%ADas-de-terceros.-la-premisa-para-usarlas-es-que-sean-c%C3%B3digos-libres-y-minimalistas.-aqu%C3%AD-te-las-menciono%3A">Para realizar esta web usamos tecnologías de terceros. La premisa para usarlas es que sean códigos libres y minimalistas. Aquí te las menciono:</h3>
-<h2 id="blog">BLOG</h2>
-<ul>
-<li>He usado <a href="https://docs.squido.org/" target="_blank">SQUIDO</a> para realizar la base del blog. Los estilos de CSS son de <a target="_blank" href="https://andybrewer.github.io/mvp/">MVPCSS</a>.</li>
-</ul>
-<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="sergiocomovas/4" data-width="100%"></script>
-<h2 id="alojamiento">ALOJAMIENTO</h2>
-<ul>
-<li>El alojamiento está en GITHUB. Podéis ver el repositorio público <a href="https://github.com/sergiocomovas/webcomovas" target="_blank">aquí</a>.</li>
-</ul>
-<h2 id="mensaje-de-cookies">MENSAJE DE COOKIES</h2>
-<ul>
-<li>Lo encontré en <a href="https://codeshack.io/eu-cookie-consent-popup-javascript/" target="_blank">esta web</a>.</li>
-</ul>
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tuits del mes (01) - Agosto 2021]]></title>
         <id>https://web.comovas.es/tuits-01</id>
         <link href="https://web.comovas.es/tuits-01"/>
@@ -163,58 +140,97 @@ charset="utf-8">
 </script>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[About page]]></title>
+        <title type="html"><![CDATA[Sobre "ComoVas.ES"]]></title>
         <id>https://web.comovas.es/about</id>
         <link href="https://web.comovas.es/about"/>
         <updated>2021-03-11T18:17:00.000Z</updated>
-        <summary type="html"><![CDATA[About page]]></summary>
-        <content type="html"><![CDATA[<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="canalpirata/24" data-width="100%"></script>
-<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="canalpirata/23" data-width="100%"></script>
-<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="canalpirata/25" data-width="100%"></script>
-<p><img src="../content/images/posts/2021-09-17-23-45-04.png" alt=""></p>
-<p><img src="../content/images/posts/2021-09-18-00-41-29.png" alt="">
-Lorem <strong>markdownum</strong>, pro scopulis hoste: aequore transire et calido illas.
-Fores ignes solus: quam tamen velocius lupi nepoti meliora tempora ulterius.</p>
-<p>Quod coeamus sacra. Clamore et fistula alta una laetatur aliud deberi posset, et
-est mentisque et <a href="https://www.terra.es" target="_blank">COSITO</a> mugitibus
-sequemur, vultus! Erant Philyreia meritum violatus geminos praecipitata
-removente sub profusis ferit; pariterque Achivi amat. Gloria et domus Quirini.</p>
-<h2 id="est-pia-clausam-erat">Est pia clausam erat</h2>
-<p>Somno sive deum suo contendite tyranni sic: harenas quodque in tempus dea sensu
-regoque fallitis sonat, nunc. Cum dat conlapsa placet <strong>nos telluris</strong> magni:
-ante te dat sis munus est motaeque longi Cecropidis septem coronae
-<a href="http://inpecudis.net/siquis-cui">telum</a>?</p>
+        <summary type="html"><![CDATA[Es la típica página de "Acerca de". Es para conocer más sobre este sitio.]]></summary>
+        <content type="html"><![CDATA[<h2 id="hola">HOLA</h2>
+<ul>
+<li>Me llamo <strong>Sergio</strong></li>
+<li>Nacido en el '84</li>
+<li>Soy de Palma de Mallorca</li>
+</ul>
+<p>Estos son algunos temas que me interesan:</p>
+<ul>
+<li>IRC y Actualidad Gaming</li>
+<li>Tech y Shitcoins</li>
+<li>Streaming y Podcast</li>
+<li>NWO y Desarollo</li>
+<li>Libertades individuales y Fitness</li>
+<li>No me meto en política (o procuro no hacerlo)</li>
+</ul>
+<h2 id="legado">LEGADO</h2>
+<p>En la página de <a href="https://web.comovas.es/legado">LEGADO</a> encontrarás información adicional sobre algunos proyectos en los que he participado.</p>
+<blockquote>
+<p>Mirando al futuro, aquí encontrarás otras propuestas de participación comunitaria.</p>
+</blockquote>
+<h2 id="inv%C3%ADtame-a-un-ko-fi">INVÍTAME A UN KO-FI</h2>
+<p>Muchas muchas gracias. Apoyar económicamente es una motivación extra para mi y un reconocimiento a un humilde servidor. Por lo que me animas a crear más contenido en un futuro.</p>
+<p><a href="https://ko-fi.com/R6R52N4QJ"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a></p>
+<h2 id="canal-pirata">CANAL PIRATA</h2>
+<ul>
+<li>En el Canal Pirata podrás encontrar la información aleatorio y de variedad que te va a interesar.
+<ul>
+<li><a href="https://t.me/canalpirata">CANAL PIRATA</a></li>
+<li><a href="https://t.me/chatpirata">CHAT PIRATA</a></li>
+</ul>
+</li>
+</ul>
+<p>Nota: en en chat y canal pirata están prohibido hablar de piratería.</p>
+<h2 id="tecnolog%C3%ADa-empleada-en-esta-web">TECNOLOGÍA EMPLEADA EN ESTA WEB</h2>
+<p>Para realizar esta web usamos tecnologías de terceros. La premisa para usarlas es que sean códigos libres y minimalistas. Aquí te las menciono:</p>
+<h3 id="blog">BLOG</h3>
+<ul>
+<li>He usado <a href="https://docs.squido.org/" target="_blank">SQUIDO</a> para realizar la base del blog. Los estilos de CSS son de <a target="_blank" href="https://andybrewer.github.io/mvp/">MVPCSS</a>.</li>
+</ul>
+<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="sergiocomovas/4" data-width="100%"></script>
+<h3 id="alojamiento">ALOJAMIENTO</h3>
+<ul>
+<li>El alojamiento está en GITHUB. Podéis ver el repositorio público <a href="https://github.com/sergiocomovas/webcomovas" target="_blank">aquí</a>.</li>
+</ul>
+<h3 id="mensaje-de-cookies">MENSAJE DE COOKIES</h3>
+<ul>
+<li>Lo encontré en <a href="https://codeshack.io/eu-cookie-consent-popup-javascript/" target="_blank">esta web</a>.</li>
+</ul>
+<h2 id="condiciones-de-uso-de-la-web-y-protecci%C3%B3n-de-datos">CONDICIONES DE USO DE LA WEB Y PROTECCIÓN DE DATOS</h2>
+<p><code>POR FAVOR, LEE ATENTAMENTE LOS SIGUIENTES PUNTOS. AQUÍ SE DESCRIBEN LAS NORMATIVAS QUE ACEPTAS AL NAVEGAR POR NUESTRA WEB, USAR O COMPRAR NUESTROS SERVICIOS.</code></p>
+<h3 id="queda-prohibido%2F-it's-not-allowed%3A">Queda prohibido/ IT'S NOT ALLOWED:</h3>
+<ul>
+<li>Visit or use the content of this Web / PWA outside of Spain. If you are outside of Spain, close your browser immediately. Visitar o usar el contenido de esta Web/PWA fuera de España.</li>
+<li>Revelar la información particular, sensible o privada de las actividades del club, socios o de nuestros colaboradores asociados.</li>
+<li>Navegar por cualquier apartado de la Web que no sea accesible desde la página principal <a href="https://comovas.es">https://comovas.es</a> o su equivalente, en especial las páginas que ya no están actualizadas, que están en desarrollo o las que se sirven bajo el protocolo estándar http.</li>
+<li>Estalquear, escanear o indexar este sitio web fuera de las rutas indicadas en el punto anterior.</li>
+</ul>
+<h2 id="%C2%BFc%C3%B3mo-tratamos-los-datos%3F">¿Cómo tratamos los datos?</h2>
 <ol>
-<li>Elige stricto atque eruit pellis inter</li>
-<li>Bucera sic non aera diversa laurumque fama</li>
-<li>Postquam orbem venti sedemque vulnere</li>
+<li>Los datos de los usuarios se almacenan de forma segura usando el protocolo https.</li>
+<li>Estos datos que obtenemos son almacenados por tiempo indeterminado en nuestros servidores privados, alojados en Sistempix -en España- (nunca en GitHub): los datos más antiguos se borran cuando la capacidad del servidor llega a su máximo; los más nuevos, se conservan hasta hasta un máximo de 10 años o hasta el máximo legal permitido. Sin embargo, dichos datos se podrían borrar en cualquier momento y sin previo aviso. Más información: <a href="https://blog.systempix.com/aloja-tu-web-en-systempix-y-cumple-con-la-rgpd-gdpr/">https://blog.systempix.com/aloja-tu-web-en-systempix-y-cumple-con-la-rgpd-gdpr/</a></li>
+<li>Los datos que obtenemos son proporcionados por los propios usuarios pero, también guardamos los que nos llegan a través de otras empresas. Por ejemplo: si haces una compra por Paypal o Stripe.</li>
+<li>La finalidad de almacenar todos estos datos es poder gestionar los servicios por los que has pagado. También los usamos para enviarte e-mails, comunicarnos vía mensajes e, indirectamente, para ofrecerte mensajes personalizados sean estos esponsorizados o no.</li>
+<li>Obtenemos tu permiso para tratar tus datos cuando pulsas sobre las casillas de verificación.</li>
+<li>Tienes derecho de solicitud, rectificación, anulación de datos y de derecho al olvido: Puedes ponerte en contacto con sergio@comovas.es</li>
+<li>Nos comprometemos a no hacer difusión no autorizada de tus datos personales (correo electrónico, etc.) y avisar en 72 horas a la autoridad competente en el caso que tengamos problemas de seguridad y nos demos cuenta de ello.</li>
 </ol>
-<p>Volucresque fervebant possedit stirpe factum humum indicat virtutis iniusti,
-sub. <a href="http://www.dicere.net/">Ope vires</a> et enim mors sensit daret volucres
-diffamatamque canendi est Corythi me satos perfida matutinis humilem. Miserabile
-os tecum potuit, <em>utinam</em> erubuisse <a href="http://mentas-facinus.net/essent">soliti</a>,
-sanguine uror, gravidae capiebat mare relicta sinistris caper.</p>
-<h2 id="verba-ea-mille-teque-dumque">Verba ea mille teque dumque</h2>
-<p>Inficit dea quoque vox pugnant nostri sui naribus vultu, iactasque colorem
-violentia, ego Phrygiisque velat proque vellem. <a href="http://parsfamem.net/me">Exprimit et
-videt</a> parentis, hortatibus ulvae deae erat secuta.
-Quod sua ovi, in florem et annis te fera. Iam lucem in egit tuo quaedam verbis
-inducere praestem <em>conlegit</em>. Et utque summus iacebat capellas intrepidum:
-Elymumque solvente exilio: <a href="http://vetustas-et.com/vapor">pecudes componar</a>!</p>
-<ol>
-<li>Amplexans Phoebeia dique locum</li>
-<li>Umeros regni concutit rogata</li>
-<li>Ait et Rhodosque Phyllei quibus motus omnis</li>
-<li>Regia sine palmis praecipue perveni totidem erat</li>
-</ol>
-<p>Animam opem ab et graves Latio <a href="http://www.quae-achilles.com/">inposuit</a> dixerat
-tune; vix aves viminis. Et <em>posse</em> nobilis collumque alte mihi nondum temone
-iacentem? Laudis enim defecto; cum donec praecordia ad ille erat victor. Partes
-et in artus vixque adspicere radice <em>mora sciat pectus</em> aethere.</p>
-<p>Nec <strong>fortunaque arte</strong> illam ac pavent vicem sententia primus suum nova!
-Terrarumque esse condit oculi labitur ad prima animo digitosque sibi patriaeque
-obusta fuerat praeside, dryadas rauca arbor totum. Contempsere requiem Cupido
-requiram neque fata caelo potest?</p>
+<table>
+<thead>
+<tr>
+<th>TITULAR DE LA BASE DE DATOS:</th>
+<th>SERGIO RIGO GONZÁLEZ</th>
+</tr>
+</thead>
+</table>
+<p>Nosotros también podemos compartir tus datos con terceras personas. ESTAS SON:</p>
+<ul>
+<li>PASARELAS DE PAGO COMO PAYPAL O STRIPE.</li>
+<li>PERSONAL DE SOPORTE SYSTEMPIX.</li>
+<li>EMPRESAS DEL GRUPO O ASOCIACIADAS.</li>
+<li>CUERPOS DE SEGURIDAD DEL ESTADO.</li>
+<li>CUALQUIER REQUERIMIENTO LEGAL DEL JUZGADO.</li>
+<li>CUALQUIER PERSONA/ORGANISMO QUE ACCEDA A LOS DATOS ILÍCITAMENTE.</li>
+</ul>
+<h3 id="cookies%3A">COOKIES:</h3>
+<p>Las Cookies son pequeños archivos creados por este u otro sitio web y que se almacenan en la memoria local de tu dispositivo. Otras empresas de terceros usan Cookies queramos o no: estas son las empresas tecnológicas como las del grupo Paypal, Facebook, Twitter, Telegram o/y Google al enlazar sus publicaciones o usar sus servicios. Tu navegador tiene un apartado <em>COOKIES EN USO/PERMISOS PARA ESTE SITIO</em> para consultar que otras empresas almacenan datos en tu ordenador y bloquearlas si lo deseas.</p>
 ]]></content>
     </entry>
 </feed>

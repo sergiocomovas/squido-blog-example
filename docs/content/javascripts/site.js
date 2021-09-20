@@ -12,14 +12,16 @@ document.addEventListener('DOMContentLoaded', function () {
   if (!localStorage.getItem('cookieconsent')) {
 		document.body.innerHTML += '\
 		<div class="cookieconsent" style="position:fixed;padding:9px;left:0;top:0;background-color:#592471;color:#FFF;text-align:center;width:100%;z-index:99999;">\
-			<strong>🍪 Se usan ⒸⓄⓄⓀⒾⒺⓈ.</strong> Si estalqueas por aquí, las aceptas sí o sí: \
-			<a href="#" style="color:#e20de9;">[ OK ]</a>\
+			🍪 ⒸⓄⓄⓀⒾⒺⓈ: Acéptalas para \
+			<a href="#" style="color:#e20de9;">[ DESBLOQUEAR ]</a>\
+			 todo el contenido. \
 		</div>\
 		';
 		document.querySelector('.cookieconsent a').onclick = function(e) {
 			e.preventDefault();
 			document.querySelector('.cookieconsent').style.display = 'none';
 			localStorage.setItem('cookieconsent', true);
+			window.location.reload(false); 
 		};
 	}
 });

@@ -1,0 +1,39 @@
+---
+title: Legado
+permalink: legado
+description: Cosas anteriores al 2020.
+date: '2021-08-01 13:46:00'
+tags: 
+  - legado
+  - antiguo
+---
+
+# EN EL RECUERDO...
+
+> Aquí hay proyectos finalizados y que quedan aquí expuestos para la memoria de todos. Revisa todo lo que he hecho en el pasado y alégrate por lo que está por venir. Siempre se vienen cositas.
+
+### EL BLOG DE BBLOVER
+<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="sergiocomovas/16" data-width="100%"></script>
+Era una parodia compactada como un blog clásico y minimalista dedicado a la industria del videojuego. Vivimos muy de cerca la salida de PSP, el alzamiento de XBOX y los nuevos aires de Nintendo. Un sistema de comentarios complementaba a nuestro medio "sectario y reduccionista" donde regentaban los trolles más tóxicos de los 2000. Otros participantes del blog eran Urian y Nuck. 
+
+-----
+
+### ESCUADRÓN
+<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="sergiocomovas/17" data-width="100%"></script>
+Ambicioso proyecto cuyo propósito era adaptar contenido de variedad al nuevo paradigma de los streaming monetizados que se emiten en directo creando contenedores temáticos para ser emitidos por diferente canales al mismo tiempo. Se plantearon franjas de emisión para gameplay familiar, recomendaciones y noticias de caracter cultural para millennials. El ecosistema se complementaba con un programa deluxe.  
+
+----
+
+### LOG 99
+<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="sergiocomovas/18" data-width="100%"></script>
+Colaboración con la comunidad de lengua española de Glimesh, una plataforma de streaming asentada en el estado americano de Pensilvania, con la que se plantearon más de 100 horas de emisión durante la versión alpha 1 y alpha 2 de la plataforma. Se emitia regularmente desde el 'Canal de Sergio' al mundo entero.
+
+----
+
+### INTERBOX WENDY HU
+<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="sergiocomovas/19" data-width="100%"></script>
+Durante casi 10 años se extendió el soporte a soluciones informáticas a club deportivos en las islas baleares en época pre-covid. Los hitos más relevantes es la organización de eventos competitivos con público en colaboración con organismos públicos y la planificación de nuevos espacios dedicados a la salud y el bien estar. 
+
+----
+
+> Visita nuestra <a href="/proyectos2022">página de proyectos</a> para revisar las nuevas oportunidades que trae el futuro.

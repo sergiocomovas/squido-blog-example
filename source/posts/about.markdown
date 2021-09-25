@@ -9,10 +9,10 @@ hidden: false
 
 ## HOLA
 
-* Me llamo **Sergio**
+* Me llamo **Sergio**, ¿cómo vas?
 * Nacido en el '84
 * Soy de Palma de Mallorca
- 
+<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="sergiocomovas/9" data-width="100%"></script> 
 
 Estos son algunos temas que me interesan:
 * IRC y Actualidad Gaming 
@@ -26,19 +26,22 @@ Estos son algunos temas que me interesan:
 
 En la página de [LEGADO](https://web.comovas.es/legado) encontrarás información adicional sobre algunos proyectos en los que he participado. 
 
-> Mirando al futuro, aquí encontrarás otras propuestas de participación comunitaria.
+> Mirando al futuro, [aquí](https://web.comovas.es/proyectos2022-01/) encontrarás otras propuestas de participación comunitaria.
 
 ## INVÍTAME A UN KO-FI
 
 Muchas muchas gracias. Apoyar económicamente es una motivación extra para mi y un reconocimiento a un humilde servidor. Por lo que me animas a crear más contenido en un futuro. 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R52N4QJ)
+<a href="https://ko-fi.com/R6R52N4QJ/donate" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" class="img-fluid"></a>
+
 
 ## CANAL PIRATA
 
-* En el Canal Pirata podrás encontrar la información aleatorio y de variedad que te va a interesar. 
-    * [CANAL PIRATA](https://t.me/canalpirata)
-    * [CHAT PIRATA](https://t.me/chatpirata)
+En el Canal Pirata podrás encontrar la información aleatorio y de variedad que te va a interesar. 
+* <a target="_blank" href="https://t.me/canalpirata">CANAL PIRATA</a>
+* <a target="_blank" href="https://t.me/chatpirata">CHAT PIRATA</a>
+
+<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="sergiocomovas/7" data-width="100%"></script>
 
 Nota: en en chat y canal pirata están prohibido hablar de piratería.
 

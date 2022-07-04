@@ -17,11 +17,12 @@
 </article>
 
 <!-- INICIO DISEÑO NUEVO Flickity-->
-<div style="" class="carousel" data-flickity='{ "groupCells": 2, "freeScroll": false, "wrapAround": true }'>
+<div class="carousel" data-flickity='{ "groupCells": 2, "freeScroll": true, "wrapAround": true, "cellAlign": "right" }'>
     
+
 <!-- Enlaces importantes -->
-  <div class="carousel-cell"><section>
-    <aside style="height: 600px; border: 1px solid var(--color-secondary); background-color: var(--color-secondary-accent)">
+  <div class="carousel-cell is-initial-select" ><section>
+    <aside style="height: 555px; border: 1px solid var(--color-secondary); background-color: var(--color-secondary-accent)">
           <h2>
             📌
           </h2>
@@ -41,7 +42,7 @@
  <!-- Últimas Entradas -->
   {{#each posts}}
   <div class="carousel-cell"><section>
-    <aside style="height: 600px;">
+    <aside style="height: 555px;">
           <h2>
             <a href="/{{this.permalink}}"> {{this.title}}</a> 
           </h2>

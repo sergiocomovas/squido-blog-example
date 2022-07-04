@@ -4,22 +4,24 @@
         <title>COMOVAS | 『CØMO』『VAS』.ES |</title>
         <link>https://web.comovas.es</link>
         <description>¿Cómo vas? Nosotros vamos tirando con NWO, GAMING, TECH, SALSEO y PODCASTS</description>
-        <lastBuildDate>Sat, 25 Sep 2021 23:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 06:26:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>squido</generator>
         <atom:link href="https://web.comovas.es/rss" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[📌 Cómo Vas - Página de Proyectos (01)]]></title>
+            <title><![CDATA[👋 ¿Cómo Vas? - Página de Proyectos y Participación.]]></title>
             <link>https://web.comovas.es/proyectos2022</link>
             <guid>https://web.comovas.es/proyectos2022</guid>
-            <pubDate>Sat, 17 Sep 2022 11:33:00 GMT</pubDate>
+            <pubDate>Fri, 31 Dec 2021 23:30:00 GMT</pubDate>
             <description><![CDATA[Colabora con nosotros y pierde el tiempo. Tranquilo, "todo sirve para la jubilación".]]></description>
-            <content:encoded><![CDATA[<h1 id="p%C3%A1gina-de-proyectos">PÁGINA DE PROYECTOS</h1>
-<h3 id="proyecto-1%3A-p%C3%A1gina-web">PROYECTO 1: PÁGINA WEB</h3>
+            <content:encoded><![CDATA[<blockquote>
+<p>¡Colabora con nosotros y haz comunidad! Estos son todos los proyectos planteados, latentes y que se pueden activar en cualquier momento. Los hay <strong>simples</strong> como añadirse a los canales de telegram y participar. Los hay más <strong>ambiciosos</strong> como la creación de contenido multi-canal para stream en directo. ¡Vamos!</p>
+</blockquote>
+<h3 id="proyecto-1%3A-corregir-esta-p%C3%A1gina-web">PROYECTO 1: CORREGIR ESTA PÁGINA WEB</h3>
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="sergiocomovas/10" data-width="100%"></script>
 <p><strong>¿Qué es?</strong></p>
 <ul>
-<li>¡Perfeccionistas os amo! Este proyecto no es complicado pero requiere tu atención. Busca faltas de ortografía o de expresión. Quizá el contenido no se sirva correctamente en tu dispositivo con fallos de maquetación, enlaces caídos...</li>
+<li>Busca faltas de ortografía o de expresión. Quizá el contenido no se sirva correctamente en tu dispositivo, falte algo o existan enlaces caídos. Sin duda, tu colaboración es imprescindible para poder detectar errores y arreglarlos. Muchas gracias. ¡Perfeccionistas os amo!</li>
 </ul>
 <p><strong>¿Cómo colaboro?</strong></p>
 <ul>
@@ -28,44 +30,64 @@
 <hr>
 <h3 id="proyecto-2%3A-canal-pirata">PROYECTO 2: CANAL PIRATA</h3>
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="sergiocomovas/11" data-width="100%"></script>
+<p><strong>¿Qué es?</strong></p>
+<ul>
+<li>No se habla de piratería en el canal Pirata pero si puedes pasarte a socializar y a chatear con la comunidad.</li>
+</ul>
+<p><strong>¿Cómo colaboro</strong></p>
+<ul>
+<li>Busca los enlaces en la página de Inicio y únete a través de la aplicación Telegram.</li>
+</ul>
+<hr>
+<h2 id="otras-ideas%3A">OTRAS IDEAS:</h2>
+<h3 id="proyecto-x%3A-clan-de-destiny">PROYECTO X: CLAN DE DESTINY</h3>
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="sergiocomovas/15" data-width="100%"></script>
+<ul>
+<li>Destiny es un juego de acción en primera persona con historia (lore) semanal. No hay novedades, hasta el momento.</li>
+</ul>
+<hr>
+<h3 id="proyecto-x%3A-programas-de-streamer">PROYECTO X: PROGRAMAS DE STREAMER</h3>
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="sergiocomovas/12" data-width="100%"></script>
+<ul>
+<li>Pásate por la web de <a href="https://www.ayudantestream.com">Ayudante Stream</a> para más información</li>
+</ul>
+<hr>
+<h3 id="proyecto-x%3A-stereo">PROYECTO X: STEREO</h3>
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="sergiocomovas/13" data-width="100%"></script>
+<ul>
+<li>Añádeme en la aplicación STEREO como @sergiostereo</li>
+</ul>
+<hr>
+<h3 id="proyecto-x%3A-ayudante-stream-(para-asociaciones)">PROYECTO X: AYUDANTE STREAM (PARA ASOCIACIONES)</h3>
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="sergiocomovas/14" data-width="100%"></script>
+<ul>
+<li>Pásate por la web de <a href="https://www.ayudantestream.com/#/ejemplos">Ayudante Stream</a> para más información</li>
+</ul>
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[En Destiny (01)]]></title>
-            <link>https://web.comovas.es/destiny-01</link>
-            <guid>https://web.comovas.es/destiny-01</guid>
-            <pubDate>Fri, 17 Sep 2021 11:45:00 GMT</pubDate>
-            <description><![CDATA[Primer episodio de lo que está pasando en destiny.]]></description>
-            <content:encoded><![CDATA[<h2 id="en-destiny-01">EN DESTINY 01</h2>
-<p>texto 1
-<img src="2021-09-17-14-13-50.png" alt=""></p>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Tuits del mes (01) - Agosto 2021]]></title>
-            <link>https://web.comovas.es/tuits-01</link>
-            <guid>https://web.comovas.es/tuits-01</guid>
+            <title><![CDATA[Artículos para buscar Empleo (listado)]]></title>
+            <link>https://web.comovas.es/linkedin-01</link>
+            <guid>https://web.comovas.es/linkedin-01</guid>
             <pubDate>Fri, 17 Sep 2021 11:33:00 GMT</pubDate>
-            <description><![CDATA[De los tuits que sobreviven a la purga, estos son los que más me gustan.]]></description>
-            <content:encoded><![CDATA[<p>##TUIS DEL MES</p>
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">“Nada es verdad. Todo está permitido” - Credo de los Assassins <a href="https://t.co/LRh7O5nyE2">pic.twitter.com/LRh7O5nyE2</a></p>&mdash; Assassin&#39;s Creed ES (@assassinsspain) <a href="https://twitter.com/assassinsspain/status/1438830835856199684?ref_src=twsrc%5Etfw">September 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote>
-<p>Comentarios</p>
-</blockquote>
-<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="es" dir="ltr">“Nada es verdad. Todo está permitido” - Credo de los Assassins <a href="https://t.co/LRh7O5nyE2">pic.twitter.com/LRh7O5nyE2</a></p>&mdash; Assassin&#39;s Creed ES (@assassinsspain) <a href="https://twitter.com/assassinsspain/status/1438830835856199684?ref_src=twsrc%5Etfw">September 17, 2021</a></blockquote> <script async defer src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<p><a
-class="twitter-share-button"
-href="https://twitter.com/CarrefourGaming/status/1438835240945037315"
-data-dnt="true">
-Tweet</a></p>
-<script async defer
-src="//platform.twitter.com/widgets.js"
-charset="utf-8">
-</script>]]></content:encoded>
+            <description><![CDATA[Lee mis artículos de Linkedin para buscar trabajo]]></description>
+            <content:encoded><![CDATA[<p>Ver <a href="https://www.linkedin.com/in/srgrigo/recent-activity/posts/">aquí</a></p>
+<hr>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6949302375438282752" height="398" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
+<hr>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6944750425615032320" height="402" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
+<hr>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6939675593290493952" height="374" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
+<hr>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6939311979123621888" height="378" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
+<hr>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6936696197516562432" height="378" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
+<hr>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6936630466783416320" height="378" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
+<hr>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6935700675091681280" height="378" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
+<hr>
+]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Legado]]></title>
@@ -73,9 +95,8 @@ charset="utf-8">
             <guid>https://web.comovas.es/legado</guid>
             <pubDate>Sun, 01 Aug 2021 11:46:00 GMT</pubDate>
             <description><![CDATA[Cosas anteriores al 2020.]]></description>
-            <content:encoded><![CDATA[<h1 id="en-el-recuerdo...">EN EL RECUERDO...</h1>
-<blockquote>
-<p>Aquí hay proyectos finalizados y que quedan aquí expuestos para la memoria de todos. Revisa todo lo que he hecho en el pasado y alégrate por lo que está por venir. Siempre se vienen cositas.</p>
+            <content:encoded><![CDATA[<blockquote>
+<p>Aquí hay proyectos pasados y finalizados y que quedan aquí expuestos para la memoria de todos. Revisa todo lo que he hecho en el pasado y alégrate por lo que está por venir. Siempre se vienen cositas nuevas.</p>
 </blockquote>
 <h3 id="el-blog-de-bblover">EL BLOG DE BBLOVER</h3>
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="sergiocomovas/16" data-width="100%"></script>
@@ -87,15 +108,21 @@ charset="utf-8">
 <hr>
 <h3 id="log-99">LOG 99</h3>
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="sergiocomovas/18" data-width="100%"></script>
-<p>Colaboración con la comunidad de lengua española de Glimesh, una plataforma de streaming asentada en el estado americano de Pensilvania, con la que se plantearon más de 100 horas de emisión durante la versión alpha 1 y alpha 2 de la plataforma. Se emitia regularmente desde el 'Canal de Sergio' al mundo entero.</p>
+<p>Colaboración con la comunidad de lengua española de Glimesh, una plataforma de streaming asentada en el estado americano de Pensilvania, con la que se plantearon más de 100 horas de emisión, en portada compartida, durante la versión alpha 1 y alpha 2 de la plataforma. Se emitia regularmente desde el 'Canal de Sergio' al mundo entero.</p>
 <hr>
 <h3 id="interbox-wendy-hu">INTERBOX WENDY HU</h3>
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="sergiocomovas/19" data-width="100%"></script>
 <p>Durante casi 10 años se extendió el soporte a soluciones informáticas a club deportivos en las islas baleares en época pre-covid. Los hitos más relevantes es la organización de eventos competitivos con público en colaboración con organismos públicos y la planificación de nuevos espacios dedicados a la salud y el bien estar.</p>
+<ul>
+<li>Repositorio GitHub con el proyecto: <a href="https://github.com/sergiocomovas/atlo_version1_old">ALTO VERSION 1</a></li>
+</ul>
 <hr>
 <blockquote>
 <p>Visita nuestra <a href="/proyectos2022">página de proyectos</a> para revisar las nuevas oportunidades que trae el futuro.</p>
 </blockquote>
+<hr>
+<h1 id="google-drive">GOOGLE DRIVE</h1>
+<p>Como referencia he subido algunos artes a la nube: <a href="https://drive.google.com/file/d/1FDvqLroprQoW1C8A_tyt6cktGZ8fZVWm/view?usp=sharing">Atlo</a>, <a href="https://drive.google.com/file/d/1BCaXwFgD01s7ahJlUuQ42CjPKMwYcCNY/view?usp=sharing">Programas de Podcast</a>, <a href="https://drive.google.com/drive/folders/1N9V13djdJBe3FsgWxK9gjCX9J8k9jA0c?usp=sharing">Fiesta Flamingo</a>, <a href="https://drive.google.com/drive/folders/1hIdgEoOOjrbSomvcqv48Uj4eDjDMXM8k?usp=sharing">Glimesh Pre-alfa</a>, <a href="https://drive.google.com/drive/folders/1nkgMyHgLxUbQqr-LLPUDBjHh3sFd4hv0?usp=sharing">Clan de Destiny 2</a> o <a href="https://drive.google.com/drive/folders/13rrigmEogL5BVaaLIqsurOSk4jbJm2mu?usp=sharing">OK 971 Radio</a></p>
 ]]></content:encoded>
         </item>
         <item>
@@ -123,7 +150,7 @@ charset="utf-8">
 <h2 id="legado">LEGADO</h2>
 <p>En la página de <a href="https://web.comovas.es/legado">LEGADO</a> encontrarás información adicional sobre algunos proyectos en los que he participado.</p>
 <blockquote>
-<p>Mirando al futuro, <a href="https://web.comovas.es/proyectos2022-01/">aquí</a> encontrarás otras propuestas de participación comunitaria.</p>
+<p>Mirando al futuro, <a href="https://web.comovas.es/proyectos2022/">aquí</a> encontrarás otras propuestas de participación comunitaria.</p>
 </blockquote>
 <h2 id="inv%C3%ADtame-a-un-ko-fi">INVÍTAME A UN KO-FI</h2>
 <p>Muchas muchas gracias. Apoyar económicamente es una motivación extra para mi y un reconocimiento a un humilde servidor. Por lo que me animas a crear más contenido en un futuro.</p>
@@ -150,6 +177,10 @@ charset="utf-8">
 <h3 id="mensaje-de-cookies">MENSAJE DE COOKIES</h3>
 <ul>
 <li>Lo encontré en <a href="https://codeshack.io/eu-cookie-consent-popup-javascript/" target="_blank">esta web</a>.</li>
+</ul>
+<h3 id="carrusuel">CARRUSUEL</h3>
+<ul>
+<li>He usado <a href="https://flickity.metafizzy.co" target="_blank">Flickity v2.2.2</a></li>
 </ul>
 <h2 id="condiciones-de-uso-de-la-web-y-protecci%C3%B3n-de-datos">CONDICIONES DE USO DE LA WEB Y PROTECCIÓN DE DATOS</h2>
 <p><code>POR FAVOR, LEE ATENTAMENTE LOS SIGUIENTES PUNTOS. AQUÍ SE DESCRIBEN LAS NORMATIVAS QUE ACEPTAS AL NAVEGAR POR NUESTRA WEB, USAR O COMPRAR NUESTROS SERVICIOS.</code></p>

@@ -26,7 +26,7 @@ Estos son algunos temas que me interesan:
 
 En la página de [LEGADO](https://web.comovas.es/legado) encontrarás información adicional sobre algunos proyectos en los que he participado. 
 
-> Mirando al futuro, [aquí](https://web.comovas.es/proyectos2022-01/) encontrarás otras propuestas de participación comunitaria.
+> Mirando al futuro, [aquí](https://web.comovas.es/proyectos2022/) encontrarás otras propuestas de participación comunitaria.
 
 ## INVÍTAME A UN KO-FI
 
@@ -62,6 +62,9 @@ Para realizar esta web usamos tecnologías de terceros. La premisa para usarlas 
 ### MENSAJE DE COOKIES
 
 - Lo encontré en <a href="https://codeshack.io/eu-cookie-consent-popup-javascript/" target="_blank">esta web</a>.
+
+### CARRUSUEL
+- He usado <a href="https://flickity.metafizzy.co" target="_blank">Flickity v2.2.2</a>
 
 ## CONDICIONES DE USO DE LA WEB Y PROTECCIÓN DE DATOS
 

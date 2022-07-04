@@ -1,24 +1,24 @@
 ---
-title: 📌 Cómo Vas - Página de Proyectos (01)
+title: 👋 ¿Cómo Vas? - Página de Proyectos y Participación.
 permalink: proyectos2022
 description: Colabora con nosotros y pierde el tiempo. Tranquilo, "todo sirve para la jubilación".
-date: '2022-09-17 13:33:00'
+date: '2022-01-01 00:30:00'
 tags: 
   - comovas
   - proyectos
   - 2022
 ---
 
-# PÁGINA DE PROYECTOS
+> ¡Colabora con nosotros y haz comunidad! Estos son todos los proyectos planteados, latentes y que se pueden activar en cualquier momento. Los hay **simples** como añadirse a los canales de telegram y participar. Los hay más **ambiciosos** como la creación de contenido multi-canal para stream en directo. ¡Vamos!
 
 
-### PROYECTO 1: PÁGINA WEB
+### PROYECTO 1: CORREGIR ESTA PÁGINA WEB
 
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="sergiocomovas/10" data-width="100%"></script>
 
 **¿Qué es?** 
 
-* ¡Perfeccionistas os amo! Este proyecto no es complicado pero requiere tu atención. Busca faltas de ortografía o de expresión. Quizá el contenido no se sirva correctamente en tu dispositivo con fallos de maquetación, enlaces caídos...
+*  Busca faltas de ortografía o de expresión. Quizá el contenido no se sirva correctamente en tu dispositivo, falte algo o existan enlaces caídos. Sin duda, tu colaboración es imprescindible para poder detectar errores y arreglarlos. Muchas gracias. ¡Perfeccionistas os amo! 
 
 **¿Cómo colaboro?**
 
@@ -30,11 +30,45 @@ tags:
 
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="sergiocomovas/11" data-width="100%"></script>
 
+**¿Qué es?**
+
+* No se habla de piratería en el canal Pirata pero si puedes pasarte a socializar y a chatear con la comunidad.
+
+**¿Cómo colaboro**
+
+* Busca los enlaces en la página de Inicio y únete a través de la aplicación Telegram.
+
+-------
+
+## OTRAS IDEAS:
+
+### PROYECTO X: CLAN DE DESTINY
+
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="sergiocomovas/15" data-width="100%"></script>
+
+* Destiny es un juego de acción en primera persona con historia (lore) semanal. No hay novedades, hasta el momento.  
+
+------
+
+### PROYECTO X: PROGRAMAS DE STREAMER
 
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="sergiocomovas/12" data-width="100%"></script>
 
+* Pásate por la web de [Ayudante Stream](https://www.ayudantestream.com) para más información
+
+------
+
+### PROYECTO X: STEREO
+
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="sergiocomovas/13" data-width="100%"></script>
 
+* Añádeme en la aplicación STEREO como @sergiostereo 
+
+------
+
+### PROYECTO X: AYUDANTE STREAM (PARA ASOCIACIONES)
+
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="sergiocomovas/14" data-width="100%"></script>
+
+* Pásate por la web de [Ayudante Stream](https://www.ayudantestream.com/#/ejemplos) para más información
 

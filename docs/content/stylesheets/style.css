@@ -16,7 +16,7 @@
     --hover-brightness: 1.2;
     --justify-important: center;
     --justify-normal: left;
-    --line-height: 1.5;
+    --line-height: 1.55em;
     --width-card: 285px;
     --width-card-medium: 460px;
     --width-card-wide: 800px;
@@ -51,19 +51,25 @@ body {
     background: var(--color-bg);
     color: var(--color-text);
     font-family: var(--font-family);
+    font-size: 18px;
     line-height: var(--line-height);
     margin: 0;
     overflow-x: hidden;
     padding: 0;
 }
 
+big {
+   font-size: 23px;
+}
+
 footer,
 header,
 main {
-    margin: 0 auto;
+    margin: 15px auto auto auto;
     max-width: var(--width-content);
-    padding: 3rem 1rem;
+    /*padding: 2rem 1rem;*/
 }
+
 
 hr {
     background-color: var(--color-bg-secondary);
@@ -455,9 +461,9 @@ blockquote {
     display: block;
     font-size: x-large;
     line-height: var(--line-height);
-    margin: 1rem auto;
-    max-width: var(--width-card-medium);
-    padding: 1.5rem 1rem;
+    margin: 0.5rem auto;
+    max-width: var(--width-card-medium)*0.5;
+    padding: 1rem 0.5rem;
     text-align: var(--justify-important);
 }
 
@@ -472,11 +478,13 @@ blockquote footer {
 /** personalizado **/
 
 .tam {
-    margin: 4.5rem;
+    margin: 8rem;
+    line-height : 35px;
+    font-family: 'merriweather', Georgia, 'Times New Roman', Times, serif;
 }
 
 @media screen and (max-width: 600px) {
     .tam {
         margin: auto;
     }
-  }
+}

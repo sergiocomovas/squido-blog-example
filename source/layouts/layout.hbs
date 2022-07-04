@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="es">
   <head>
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     {{#if meta.title}}
@@ -47,21 +48,37 @@
     
     <link rel="stylesheet" href="/content/stylesheets/style{{config.fileEnv}}.css">
     <script src="/content/javascripts/site{{config.fileEnv}}.js"></script>
+
+    <!--flickity-->
+    <link rel="stylesheet" href="/content/stylesheets/flickity.css">
+    <script src="/content/javascripts/flickity.pkgd.js"></script>
+
     <!--<meta name="google-site-verification" content="VRUmulyJTSQAk3Lm2xSNlu4kDy9L7jCi6qNZoBh1tMw" />
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-7038832-49"></script>-->
-    <script>
+    <!--<script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       gtag('config', 'UA-7038832-49');
-    </script>
+    </script>-->
   </head>
   <body>
-   <main>
+
+  <!-- invento --> 
+  <div style="position: absolute; top: 0; left: 0; right: 0; z-index:-1;">
+
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+        <path fill="var(--color-shadow)" fill-opacity="0.8" d="M0,128L1440,32L1440,0L0,0Z"></path>
+      </svg>
+
+  </div>
+  <!-- fin del invento-->
+
+    <main style="background-color: none;">
     <nav style="margin-bottom: -15px;">
        <h2>
           <a href="/">
-            <img src="/content/images/comovas.svg" alt="" width="65" height="65">
+            <img style="z-index: 999999;" src="/content/images/comovas.svg" alt="" width="65" height="65">
           </a>
         <h2>
         <ul>
@@ -70,8 +87,8 @@
         </ul>
       </nav>
 
-      <div>{{{body}}}</div>
-    </main>
+      <div style="">{{{body}}}</div>
+     </main>
 
     <!--FOOTER-->
     <footer>

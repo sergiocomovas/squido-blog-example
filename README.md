@@ -15,8 +15,8 @@ Además he usado [MVP.CSS](https://andybrewer.github.io/mvp/)
 | ------------------ |
 | Control+Alt+C |
 
-| PROBLEMAS QUE HE TENIDO CON LA DOCUMENTACION |
+/*| PROBLEMAS QUE HE TENIDO CON LA DOCUMENTACION |
 |---------------------|
-| Cambiar el modo de desarrollo/produción del NODE ¿dónde está el archivo de conf.? |
+| Cambiar el modo de desarrollo/produción del NODE ¿dónde está el archivo de conf.? |*/
 
 

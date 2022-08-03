@@ -4,7 +4,7 @@
         <title>COMOVAS | 『CØMO』『VAS』.ES |</title>
         <link>https://web.comovas.es</link>
         <description>¿Cómo vas? Nosotros vamos tirando con NWO, GAMING, TECH, SALSEO y PODCASTS</description>
-        <lastBuildDate>Wed, 03 Aug 2022 22:49:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 23:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>squido</generator>
         <atom:link href="https://web.comovas.es/rss" rel="self" type="application/rss+xml"/>
@@ -237,27 +237,6 @@ Puedes leer más sobre COSASDEV <a href="https://www.linkedin.com/feed/update/ur
 <ul>
 <li>Pásate por la web de <a href="https://www.ayudantestream.com/#/ejemplos">Ayudante Stream</a> para más información</li>
 </ul>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Recomendaciones mesuales (01)]]></title>
-            <link>https://web.comovas.es/recomendaciones-01/</link>
-            <guid>https://web.comovas.es/recomendaciones-01/</guid>
-            <pubDate>Fri, 17 Sep 2021 11:46:00 GMT</pubDate>
-            <description><![CDATA[De lo que estoy haciendo, esto es lo que recomiendo.]]></description>
-            <content:encoded><![CDATA[<h2 id="recomendaciones-mensuales">RECOMENDACIONES MENSUALES</h2>
-<table>
-<thead>
-<tr>
-<th>CANALES DE STREAMER</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>sdfsdfsd</td>
-</tr>
-</tbody>
-</table>
 ]]></content:encoded>
         </item>
         <item>

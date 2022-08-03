@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://web.comovas.es</id>
     <title>COMOVAS | 『CØMO』『VAS』.ES |</title>
-    <updated>2022-08-03T22:49:20.423Z</updated>
+    <updated>2022-08-03T23:10:48.188Z</updated>
     <generator>squido</generator>
     <link rel="alternate" href="https://web.comovas.es"/>
     <link rel="self" href="https://web.comovas.es/atom"/>
@@ -237,27 +237,6 @@ Puedes leer más sobre COSASDEV <a href="https://www.linkedin.com/feed/update/ur
 <ul>
 <li>Pásate por la web de <a href="https://www.ayudantestream.com/#/ejemplos">Ayudante Stream</a> para más información</li>
 </ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recomendaciones mesuales (01)]]></title>
-        <id>https://web.comovas.es/recomendaciones-01/</id>
-        <link href="https://web.comovas.es/recomendaciones-01/"/>
-        <updated>2021-09-17T11:46:00.000Z</updated>
-        <summary type="html"><![CDATA[De lo que estoy haciendo, esto es lo que recomiendo.]]></summary>
-        <content type="html"><![CDATA[<h2 id="recomendaciones-mensuales">RECOMENDACIONES MENSUALES</h2>
-<table>
-<thead>
-<tr>
-<th>CANALES DE STREAMER</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>sdfsdfsd</td>
-</tr>
-</tbody>
-</table>
 ]]></content>
     </entry>
     <entry>

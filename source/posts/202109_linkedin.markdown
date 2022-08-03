@@ -1,14 +1,20 @@
 ---
 title: Artículos para buscar Empleo (listado)
-permalink: linkedin-01
+permalink: artículos_linkedin_1
 description: Lee mis artículos de Linkedin para buscar trabajo 
-date: '2021-09-17 13:33:00'
+date: '2022-07-29 13:33:00'
 tags: 
   - linkedin
   - empleo
   - opentowork
   - 2022
+mainimage: '../content/images/posts/20220803161405.png'
 ---
+
+### TÍTULO
+
+![](../content/images/posts/20220803161405.png)  
+
 Ver [aquí](https://www.linkedin.com/in/srgrigo/recent-activity/posts/)
 
 --- 

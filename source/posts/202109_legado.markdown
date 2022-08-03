@@ -1,7 +1,7 @@
 ---
 title: Legado
 permalink: legado
-description: Cosas anteriores al 2020.
+description: Cosas antiguas y anteriores al 2020. Acceso a mi DRIVE de diseños.
 date: '2021-08-01 13:46:00'
 tags: 
   - legado

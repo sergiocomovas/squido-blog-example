@@ -3,7 +3,8 @@
   "version": "1.0.1",
   "description": "Squido build file",
   "scripts": {
-    "build": "squido build -c"
+    "build": "squido build -c",
+    "dev": "squido serve -b -w -c"
   },
   "dependencies": {
     "squido" : "mrvautin/squido"

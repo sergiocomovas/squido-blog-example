@@ -1,7 +1,7 @@
 ---
 title: 👋 ¿Cómo Vas? - Página de Proyectos y Participación.
 permalink: proyectos2022
-description: Colabora con nosotros y pierde el tiempo. Tranquilo, "todo sirve para la jubilación".
+description: Colabora con nosotros y pierde el tiempo. Son ideas a realizar en el futuro pero que necesitan colaboradores.
 date: '2022-01-01 00:30:00'
 tags: 
   - comovas

@@ -4,16 +4,190 @@
         <title>COMOVAS | 『CØMO』『VAS』.ES |</title>
         <link>https://web.comovas.es</link>
         <description>¿Cómo vas? Nosotros vamos tirando con NWO, GAMING, TECH, SALSEO y PODCASTS</description>
-        <lastBuildDate>Mon, 04 Jul 2022 19:58:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 22:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>squido</generator>
         <atom:link href="https://web.comovas.es/rss" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Microservicios en SVELTE]]></title>
+            <link>https://web.comovas.es/dev_svelte_1/</link>
+            <guid>https://web.comovas.es/dev_svelte_1/</guid>
+            <pubDate>Tue, 02 Aug 2022 11:33:00 GMT</pubDate>
+            <description><![CDATA[SVELTE es un framework poco conocido que he conocido recientemente. Descubre mis proyectos.]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>SVELTE es un framework de javascript que he conocido recientemente y me ha parecido muy fácil de usar. Gracias a las newsletters que me envíaba Nate Murray de newline he redescubierto la ilusión por programar.</p>
+</blockquote>
+<p><img src="../content/images/posts/20220803161740.png" alt=""></p>
+<h1 id="p%C3%A1gina-de-pruebas">PÁGINA DE PRUEBAS</h1>
+<p><img src="../content/images/posts/20220803234755.png" alt=""><br>
+La página de pruebas es un caja de arena donde he realizado distintas comprobaciones antes de adentrarme en un proyecto más ambicioso. Actualmente está en linea y se puede consultar desde la web de <a href="https://cosasdev.comovas.es">COSAS DEV</a>. Igualmente dejo los enlaces en la parte final de este artículo.</p>
+<h2 id="gran-proyecto">GRAN PROYECTO</h2>
+<p>Se trata de un proyecto FULL STACK donde estoy construyendo una App de Svelte con Vite, Node.js, Express, Postgresql, Auth0 y Bulma. A 3 de Agosto 2022 los avances visibles no son muy impresionantes pero espero tener la aplicación acabada próximamente.</p>
+<p><img src="../content/images/posts/20220803235621.png" alt=""></p>
+<h2 id="en-resumen">EN RESUMEN</h2>
+<table>
+<thead>
+<tr>
+<th>PRUEBAS REACT</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/sergiocomovas/00_cosasDev_svelte-app-00">GITHUB</a></td>
+</tr>
+<tr>
+<td><a href="http://micro.cosasdev.comovas.es/svelte/">VER EN LA WEB</a></td>
+</tr>
+</tbody>
+</table>
+<p><br><br></p>
+<table>
+<thead>
+<tr>
+<th>GRAN PROYECTO</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/sergiocomovas/00_proyecto_svelte_frontend1">GITHUB FRONTEN</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/sergiocomovas/00_proyecto_svelte_backend2">GITHUB BACKEND</a></td>
+</tr>
+<tr>
+<td><a href="http://granproyecto.cosasdev.comovas.es/">VER EN LA WEB</a></td>
+</tr>
+</tbody>
+</table>
+<h1 id="y-a%C3%BAn-hay-m%C3%A1s...">Y AÚN HAY MÁS...</h1>
+<h2 id="%F0%9F%91%89echa-un-vistazo%2C-en-este-mismo-blog%2C-las-secciones-dedicadas-a-react-y-a-php.">👉Echa un vistazo, en este mismo blog, las secciones dedicadas a <a href="/dev_github_1">REACT</a> y a <a href="/dev_php_1">PHP</a>.</h2>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Nuevos proyectos GITHUB (añadidos agosto 2022)]]></title>
+            <link>https://web.comovas.es/dev_github_1/</link>
+            <guid>https://web.comovas.es/dev_github_1/</guid>
+            <pubDate>Tue, 02 Aug 2022 11:33:00 GMT</pubDate>
+            <description><![CDATA[Mira mis proyectos GITHUB relacionados con el micrositio COSASDEV de COMOVAS.]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>Durante estos meses de verano he aprovechado para augmentar mis habilidades sacándome la certificación <a href="https://www.linkedin.com/feed/update/urn:li:activity:6956973379648118784/ ">PSMI</a> (Scrum Master Profesional) pero también para augmentar mi portfolio personal en GITHUB. Este es un resumen de lo que he añadido.</p>
+</blockquote>
+<hr>
+<p><img src="../content/images/posts/20220803160754.png" alt=""></p>
+<h2 id="cosasdev">COSASDEV</h2>
+<p><strong>COSASDEV</strong> es la sección de mi web personal en donde los proyectos corriendo en la web. En esta ocasión he mejorado el diseño de la página inicial en <strong>REACT</strong> y añadiendo un botón muy especial.
+<img src="../content/images/posts/20220803222334.png" alt=""><br>
+Puedes leer más sobre COSASDEV <a href="https://www.linkedin.com/feed/update/urn:li:activity:6949302375954173952/">aquí</a> y visitar la web en <a href="https://cosasdev.comovas.es">https://cosasdev.comovas.es</a></p>
+<h2 id="microservicios">MICROSERVICIOS</h2>
+<p>En la metodología <a href="https://www.instagram.com/p/CgEo8PoO8cn/">SCRUM</a> los equipos luchan por conseguir una funcionalidad acabada en menos de 1 mes y que se debe mostrar al cliente para obtener su feedback. Eso me hizo preguntarme cómo se podría implementar tan rápidamente una mejora contable. Los <a href="https://martinfowler.com/articles/micro-frontends.html">MICROSERVICIOS</a> tienen muchas más ventajas -como correguir los errores de producción rápidamente o priorizar los recursos del servidor- pero no el BACKEND no se suele hacer.</p>
+<p>Aunque es un ahorro de tiempo muy creativo. Este botón es una muestra: en verdad no está hecho en REACT. Toda la página está hecha en REACT pero este botón  <strong>VUE</strong> y se está mostrando en <strong>otra parte del servidor</strong>. La implementación se ha hecho con un iframe de HTML. Con varios retoques del CSS muy integrado y fantástico.</p>
+<p><img src="../content/images/posts/20220803223538.png" alt=""></p>
+<h1 id="en-resumen...">EN RESUMEN...</h1>
+<table>
+<thead>
+<tr>
+<th>NOMBRE</th>
+<th>REPOSITORIO</th>
+<th>LIVE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>COSAS DEV (REACT)</td>
+<td><a href="https://github.com/sergiocomovas/react-app-00">GITHUB 1</a></td>
+<td><a href="https://cosasdev.comovas.es">WEB 1</a></td>
+</tr>
+<tr>
+<td>MICROSERVICIOS: BOTÓN</td>
+<td><a href="https://github.com/sergiocomovas/00_microserviciovue_imenu">GITHUB 2</a></td>
+<td><a href="https://micro.cosasdev.comovas.es/botonvue/">WEB 2</a></td>
+</tr>
+</tbody>
+</table>
+<h1 id="y-a%C3%BAn-hay-m%C3%A1s...">Y AÚN HAY MÁS...</h1>
+<h2 id="%F0%9F%91%89echa-un-vistazo%2C-en-este-mismo-blog%2C-las-secciones-dedicadas-a-php-y-a-svelte.">👉Echa un vistazo, en este mismo blog, las secciones dedicadas a <a href="/dev_php_1">PHP</a> y a <a href="/dev_svelte_1">SVELTE</a>.</h2>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Pruebas PHP]]></title>
+            <link>https://web.comovas.es/dev_php_1/</link>
+            <guid>https://web.comovas.es/dev_php_1/</guid>
+            <pubDate>Tue, 02 Aug 2022 11:33:00 GMT</pubDate>
+            <description><![CDATA[Conoce mis proyectos GITHUB relacionados con PHP y conoce otros proyectos que realizaré en el futuro.]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p>En verano 2022 he aprovechado para subir mis proyectos a mi <a href="https://https://github.com/sergiocomovas">github</a>. A parte del gran repositorio de la antigua web del gimnasio <a href="https://github.com/sergiocomovas/atlo_version1_old">ATLO</a> hecha en PHP/CODEIGNITER, he añadido algunos proyectos más.</p>
+</blockquote>
+<p><img src="../content/images/posts/20220803161228.png" alt=""></p>
+<h2 id="bot-de-telegram">BOT DE TELEGRAM</h2>
+<p>Los <a href="https://core.telegram.org/bots">bots de TELEGRAM</a> permiten multitud de utilidades. Hasta donde llega la imaginación. En mi ejemplo de bot telegram -que era totalmente funcional- los usuarios interesados podían registrar la entrada en el gimnasio y contarle a los demás que deporte o actividad iban a realizar permitiendo la interacción entre personas.</p>
+<h2 id="preguntas-precuentes-php">PREGUNTAS PRECUENTES PHP</h2>
+<p>En esta página puedes consultar las preguntas frecuentes y <a href="https://quickref.me/php">otros cheatsheets</a>. Como por ejemplo...</p>
+<ul>
+<li>❓¿Cómo encriptarias una contraseña en PHP?</li>
+<li>❓¿Qué librería usarias para enviar un mail?</li>
+<li>❓¿Para que sirve el CONTRUCTOR de una clase?</li>
+</ul>
+<h2 id="enlaces">ENLACES</h2>
+<table>
+<thead>
+<tr>
+<th>TEGRAM BOT</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/sergiocomovas/09_php_bottelegram">REPOSITORIO</a></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>PREGUNTAS PHP</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/sergiocomovas/09_php_preguntas">REPOSITORIO</a></td>
+</tr>
+</tbody>
+</table>
+<h1 id="y-a%C3%BAn-hay-m%C3%A1s...">Y AÚN HAY MÁS...</h1>
+<h2 id="%F0%9F%91%89echa-un-vistazo%2C-en-este-mismo-blog%2C-las-secciones-dedicadas-a-react-y-a-svelte.">👉Echa un vistazo, en este mismo blog, las secciones dedicadas a <a href="/dev_github_1">REACT</a> y a <a href="/dev_svelte_1">SVELTE</a>.</h2>
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Artículos para buscar Empleo (listado)]]></title>
+            <link>https://web.comovas.es/artículos_linkedin_1/</link>
+            <guid>https://web.comovas.es/artículos_linkedin_1/</guid>
+            <pubDate>Fri, 29 Jul 2022 11:33:00 GMT</pubDate>
+            <description><![CDATA[Lee mis artículos de Linkedin para buscar trabajo]]></description>
+            <content:encoded><![CDATA[<h3 id="t%C3%ADtulo">TÍTULO</h3>
+<p><img src="../content/images/posts/20220803161405.png" alt=""></p>
+<p>Ver <a href="https://www.linkedin.com/in/srgrigo/recent-activity/posts/">aquí</a></p>
+<hr>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6949302375438282752" height="398" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
+<hr>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6944750425615032320" height="402" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
+<hr>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6939675593290493952" height="374" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
+<hr>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6939311979123621888" height="378" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
+<hr>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6936696197516562432" height="378" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
+<hr>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6936630466783416320" height="378" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
+<hr>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6935700675091681280" height="378" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
+<hr>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[👋 ¿Cómo Vas? - Página de Proyectos y Participación.]]></title>
-            <link>https://web.comovas.es/proyectos2022</link>
-            <guid>https://web.comovas.es/proyectos2022</guid>
+            <link>https://web.comovas.es/proyectos2022/</link>
+            <guid>https://web.comovas.es/proyectos2022/</guid>
             <pubDate>Fri, 31 Dec 2021 23:30:00 GMT</pubDate>
-            <description><![CDATA[Colabora con nosotros y pierde el tiempo. Tranquilo, "todo sirve para la jubilación".]]></description>
+            <description><![CDATA[Colabora con nosotros y pierde el tiempo. Son ideas a realizar en el futuro pero que necesitan colaboradores.]]></description>
             <content:encoded><![CDATA[<blockquote>
 <p>¡Colabora con nosotros y haz comunidad! Estos son todos los proyectos planteados, latentes y que se pueden activar en cualquier momento. Los hay <strong>simples</strong> como añadirse a los canales de telegram y participar. Los hay más <strong>ambiciosos</strong> como la creación de contenido multi-canal para stream en directo. ¡Vamos!</p>
 </blockquote>
@@ -66,35 +240,11 @@
 ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Artículos para buscar Empleo (listado)]]></title>
-            <link>https://web.comovas.es/linkedin-01</link>
-            <guid>https://web.comovas.es/linkedin-01</guid>
-            <pubDate>Fri, 17 Sep 2021 11:33:00 GMT</pubDate>
-            <description><![CDATA[Lee mis artículos de Linkedin para buscar trabajo]]></description>
-            <content:encoded><![CDATA[<p>Ver <a href="https://www.linkedin.com/in/srgrigo/recent-activity/posts/">aquí</a></p>
-<hr>
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6949302375438282752" height="398" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
-<hr>
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6944750425615032320" height="402" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
-<hr>
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6939675593290493952" height="374" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
-<hr>
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6939311979123621888" height="378" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
-<hr>
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6936696197516562432" height="378" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
-<hr>
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6936630466783416320" height="378" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
-<hr>
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6935700675091681280" height="378" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
-<hr>
-]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Legado]]></title>
-            <link>https://web.comovas.es/legado</link>
-            <guid>https://web.comovas.es/legado</guid>
+            <link>https://web.comovas.es/legado/</link>
+            <guid>https://web.comovas.es/legado/</guid>
             <pubDate>Sun, 01 Aug 2021 11:46:00 GMT</pubDate>
-            <description><![CDATA[Cosas anteriores al 2020.]]></description>
+            <description><![CDATA[Cosas antiguas y anteriores al 2020. Acceso a mi DRIVE de diseños.]]></description>
             <content:encoded><![CDATA[<blockquote>
 <p>Aquí hay proyectos pasados y finalizados y que quedan aquí expuestos para la memoria de todos. Revisa todo lo que he hecho en el pasado y alégrate por lo que está por venir. Siempre se vienen cositas nuevas.</p>
 </blockquote>
@@ -127,8 +277,8 @@
         </item>
         <item>
             <title><![CDATA[Sobre "ComoVas.ES"]]></title>
-            <link>https://web.comovas.es/about</link>
-            <guid>https://web.comovas.es/about</guid>
+            <link>https://web.comovas.es/about/</link>
+            <guid>https://web.comovas.es/about/</guid>
             <pubDate>Thu, 11 Mar 2021 18:17:00 GMT</pubDate>
             <description><![CDATA[Es la típica página de "Acerca de". Es para conocer más sobre este sitio.]]></description>
             <content:encoded><![CDATA[<h2 id="hola">HOLA</h2>

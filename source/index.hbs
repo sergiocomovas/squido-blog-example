@@ -4,13 +4,18 @@
 
 <header>
   <figure>
+<<<<<<< HEAD
     <img style="opacity: 0.7;" src="content/images/comovas_portada.png" width="800">
     <figcaption style="color:white; opacity: 0.7;">"Solo hay 2700 multimilmillonarios. 5 centimilmillonarios. El número uno es calvo. Piénsalo."</figcaption>
+=======
+    <img style="opacity: 0.9;" src="content/images/comovas_laweb.svg" width="800">
+>>>>>>> 7011b9e312a236ec785c322ddc4f16dceedb5e0f
   </figure>
 </header>
 
 
 <article>
+<<<<<<< HEAD
   <aside>
     <p><sup>NUEVO</sup> ¡Colabora con nosotros! Mira nuestra <a href="/proyectos2022">página de proyectos</a> y ponte en contacto por <a href="mailto:sergio@comovas.es">email</a> o <a href="https://www.twitter.es/sergiocomovas" target="_blank">RRSS</a>  </p>
   </aside>
@@ -21,6 +26,21 @@
 <section>
   <section>
     <aside style="background-color:#25455F">
+=======
+
+  <aside style="margin-bottom: 1rem">
+    <p><sup>#OPEN TO WORK</sup><br> Lee mis <a href="https://www.linkedin.com/in/srgrigo/recent-activity/posts/">[ARTÍCULOS]</a> de Linkedin, accede a <a href="https://cosasdev.comovas.es">[COSAS DEV]</a> para ver mis prácticas con REACT y a mis repositorios de <a href="https://github.com/sergiocomovas/">[GITHUB]</a> </p>
+  </aside>
+</article>
+
+<!-- INICIO DISEÑO NUEVO Flickity-->
+<div class="carousel" data-flickity='{ "groupCells": 2, "freeScroll": true, "wrapAround": true, "cellAlign": "right" }'>
+    
+
+<!-- Enlaces importantes -->
+  <div class="carousel-cell is-initial-select" ><section>
+    <aside style="height: 555px; border: 1px solid var(--color-secondary); background-color: var(--color-secondary-accent)">
+>>>>>>> 7011b9e312a236ec785c322ddc4f16dceedb5e0f
           <h2>
             📌
           </h2>
@@ -35,6 +55,7 @@
             <li><a href="https://t.me/canalpirata" target="_blank">Canal Pirata</a></li>
             <li><a href="https://t.me/chatpirata" target="_blank">Chat Pirata</a></li>  
     </aside>
+<<<<<<< HEAD
   </section> 
  <!-- REPETIBLE TARJETAS POST-->
   {{#each posts}}
@@ -50,6 +71,32 @@
   </section>
   {{/each}}
 </section>
+=======
+  </section></div>
+ 
+ <!-- Últimas Entradas -->
+  {{#each posts}}
+  <div class="carousel-cell"><section>
+    <aside style="height: 555px;">
+          <h2>
+            <a href="/{{this.permalink}}"> {{this.title}}</a> 
+          </h2>
+          <p><strong>{{this.description}}</strong></p>
+          <p>{{this.summary}}…</p>
+          <div style="position: absolute; bottom: 30px;">
+            <a href="/{{this.permalink}}"><em>Seguir leyendo…</em></a>
+          </div>
+    </aside>
+  </section></div>
+  {{/each}}
+
+
+</div>
+
+
+ <!-- FIN DISEÑO NUEVO -->
+
+>>>>>>> 7011b9e312a236ec785c322ddc4f16dceedb5e0f
 
 <!-- REPLETIBLE PAGINACIÓN -->
 {{#if config.pagination}}

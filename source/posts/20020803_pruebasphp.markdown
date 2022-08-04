@@ -19,6 +19,12 @@ mainimage: '../content/images/posts/20220803161228.png'
 
 Los <a href="https://core.telegram.org/bots">bots de TELEGRAM</a> permiten multitud de utilidades. Hasta donde llega la imaginación. En mi ejemplo de bot telegram -que era totalmente funcional- los usuarios interesados podían registrar la entrada en el gimnasio y contarle a los demás que deporte o actividad iban a realizar permitiendo la interacción entre personas.
 
+## SQL DE HOTEL DE ANIMALES
+He estado jugando con el sistema MODELO->CONTROLADOR y ejecutado varias búsquedas:
+ ![](../content/images/posts/20220804102920.png)  
+
+ PUEDES VER <a href="https://tbot.comovas.es/qhotel">AQUÍ</a> EL EJEMPLO EN VIVO.
+
 ## PREGUNTAS PRECUENTES PHP
 
 En esta página puedes consultar las preguntas frecuentes y <a href="https://quickref.me/php">otros cheatsheets</a>. Como por ejemplo...
@@ -27,6 +33,11 @@ En esta página puedes consultar las preguntas frecuentes y <a href="https://qui
 * ❓¿Para que sirve el CONTRUCTOR de una clase?	
 
 ## ENLACES
+
+| HOTEL Q (SQL) |
+| -- |
+| <a href="https://tbot.comovas.es/qhotel">WEB</a>  |
+
 
 | TEGRAM BOT |
 |--|

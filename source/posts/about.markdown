@@ -76,6 +76,7 @@ Para realizar esta web usamos tecnologías de terceros. La premisa para usarlas 
 * Revelar la información particular, sensible o privada de las actividades del club, socios o de nuestros colaboradores asociados.  
 * Navegar por cualquier apartado de la Web que no sea accesible desde la página principal <a href="https://comovas.es">https://comovas.es</a> o su equivalente, en especial las páginas que ya no están actualizadas, que están en desarrollo o las que se sirven bajo el protocolo estándar http.  
 * Estalquear, escanear o indexar este sitio web fuera de las rutas indicadas en el punto anterior. 
+* Salvo que se indique lo contrario, la propiedad de las marcas comerciales mencionadas como SCRUM, CROSSFIT o PLAYSTATION pertenecen a sus respectivos dueños.
 
 
 ## ¿Cómo tratamos los datos?
@@ -88,7 +89,7 @@ Para realizar esta web usamos tecnologías de terceros. La premisa para usarlas 
 6. Tienes derecho de solicitud, rectificación, anulación de datos y de derecho al olvido: Puedes ponerte en contacto con sergio@comovas.es 
 7. Nos comprometemos a no hacer difusión no autorizada de tus datos personales (correo electrónico, etc.) y avisar en 72 horas a la autoridad competente en el caso que tengamos problemas de seguridad y nos demos cuenta de ello. 
 
-| TITULAR DE LA BASE DE DATOS: | SERGIO RIGO GONZÁLEZ  |
+| TITULAR DE LA BASE DE DATOS: | SERGIO R. GONZÁLEZ  |
 |------------------------------| ----------------------|
  
 

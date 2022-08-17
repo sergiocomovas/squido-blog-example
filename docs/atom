@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://web.comovas.es</id>
     <title>COMOVAS | 『CØMO』『VAS』.ES |</title>
-    <updated>2022-08-04T08:31:09.013Z</updated>
+    <updated>2022-08-17T15:07:18.132Z</updated>
     <generator>squido</generator>
     <link rel="alternate" href="https://web.comovas.es"/>
     <link rel="self" href="https://web.comovas.es/atom"/>
@@ -356,6 +356,7 @@ Puedes leer más sobre COSASDEV <a href="https://www.linkedin.com/feed/update/ur
 <li>Revelar la información particular, sensible o privada de las actividades del club, socios o de nuestros colaboradores asociados.</li>
 <li>Navegar por cualquier apartado de la Web que no sea accesible desde la página principal <a href="https://comovas.es">https://comovas.es</a> o su equivalente, en especial las páginas que ya no están actualizadas, que están en desarrollo o las que se sirven bajo el protocolo estándar http.</li>
 <li>Estalquear, escanear o indexar este sitio web fuera de las rutas indicadas en el punto anterior.</li>
+<li>Salvo que se indique lo contrario, la propiedad de las marcas comerciales mencionadas como SCRUM, CROSSFIT o PLAYSTATION pertenecen a sus respectivos dueños.</li>
 </ul>
 <h2 id="%C2%BFc%C3%B3mo-tratamos-los-datos%3F">¿Cómo tratamos los datos?</h2>
 <ol>
@@ -371,7 +372,7 @@ Puedes leer más sobre COSASDEV <a href="https://www.linkedin.com/feed/update/ur
 <thead>
 <tr>
 <th>TITULAR DE LA BASE DE DATOS:</th>
-<th>SERGIO RIGO GONZÁLEZ</th>
+<th>SERGIO R. GONZÁLEZ</th>
 </tr>
 </thead>
 </table>

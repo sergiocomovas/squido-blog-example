@@ -19,57 +19,57 @@
 <!-- INICIO DISEÑO NUEVO Flickity-->
 <div class="carousel" data-flickity='{ "groupCells": 2, "freeScroll": true, "wrapAround": true, "cellAlign": "right" }'>
     
-
 <!-- Enlaces importantes -->
   <div class="carousel-cell is-initial-select" ><section>
-    <aside style="height: 555px; border: 1px solid var(--color-secondary); background-color: var(--color-secondary-accent)">
+    <aside style="height: 515px; border: 1px solid var(--color-secondary); background-color: var(--color-secondary-accent)">
           <h2>
             📌
           </h2>
           <h3>Redes Sociales</h3>
-          
-            <li><a href="https://twitter.com/sergiocomovas" target="_blank">Twitter (Cuenta Personal)</a></li>
+            <li><a href="https://www.linkedin.com/in/srgrigo/" target="_blank">Linkedin</a></li>
+            <li><a href="https://github.com/sergiocomovas" target="_blank">Github</a></li>
+            <!--<li><a href="https://twitter.com/sergiocomovas" target="_blank">Twitter (Cuenta Personal)</a></li>-->
             <li><a href="https://twitter.com/avisoscomovas" target="_blank">Twitter </a></li>
             <li><a href="https://twitch.tv/sergiocomovas" target="_blank">Twitch</a></li>
             <li><a href="https://dlive.tv/sergiocomovas" target="_blank">DLive</a></li>
-          
+
           <h3>Telegram</h3>
             <li><a href="https://t.me/canalpirata" target="_blank">Canal Pirata</a></li>
             <li><a href="https://t.me/chatpirata" target="_blank">Chat Pirata</a></li>  
           
-          <h3>Otros</h3>
-          <li><a href="https://www.linkedin.com/in/srgrigo/">LINKEDIN</a></li>
-          <li><a href="https://github.com/sergiocomovas">GITHUB</a></li>
+          <h3>OTROS</h3>
+          <li><a href="https://sidet.cosasdev.comovas.es/" target="_blank">Test técnico para empresa balear</a></li>
+          <li><a href="https://express.cosasdev.comovas.es" target="_blank">API🔒 Express.js</a></li>
     </aside>
   </section></div>
- 
+
  <!-- Últimas Entradas -->
   {{#each posts}}
   <div class="carousel-cell"><section>
-    <aside style="height: 555px;">
+    <aside style="height: 515px;">
 
           <!--https://qastack.mx/programming/10736907/handlebars-js-else-if--> 
             {{#if this.mainimage}}
-            <img alt="{{this.title}}" style="width:100%; max-height: 285px" src="{{this.mainimage}}"> 
+            <img alt="{{this.title}}" style="width:100%; height: 275px" src="{{this.mainimage}}"> 
             {{else}}
-            <img alt="{{this.title}}" style="width:100%; max-height: 
-            285px" src="../content/images/posts/20220803174020.png"> 
+            <img alt="{{this.title}}" style="width:100%; height: 
+            275px" src="../content/images/posts/20220803174020.png"> 
             {{/if}}       
 
-            <div style="max-height: 110px; text-overflow: ellipsis; overflow: hidden">
+            <div style="max-height: 135px; overflow: hidden; height:135px;">
               <h2 style="padding:0px">
               <a title="{{this.summary}}..." href="/{{this.permalink}}">{{this.title}}</a> 
               </h2>
             </div>
 
-            <div style="max-height: 100px; overflow: hidden; text-overflow: ellipsis;">
+            <div style="max-height: 100px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis !important;">
             {{this.description}}
             </div>
 
 
             <div style="bottom: 30px; left:17px; background: var(--color-bg);
 background: linear-gradient(0deg, var(--color-bg100) 2%, var(--color-bg) 3%, var(--color-bg) 65%, var(--color-bg100) 75%); position:absolute; width: 325px;">
-              <a style="padding: 50px 0px 0px 10px" href="/{{this.permalink}}"><em>Seguir leyendo…</em></a> 
+              <a style="padding: 50px 0px 0px 10px;" href="/{{this.permalink}}"><em>Seguir leyendo…</em></a> 
 
           </div>
     </aside>
@@ -77,10 +77,8 @@ background: linear-gradient(0deg, var(--color-bg100) 2%, var(--color-bg) 3%, var
   {{/each}}
 
 
-</div>
-
-
- <!-- FIN DISEÑO NUEVO -->
+</div><!--div del carrusel-->
+<!-- FIN DISEÑO NUEVO -->
 
 
 <!-- REPLETIBLE PAGINACIÓN -->

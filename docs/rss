@@ -4,7 +4,7 @@
         <title>COMOVAS | 『CØMO』『VAS』.ES |</title>
         <link>https://web.comovas.es</link>
         <description>¿Cómo vas? Nosotros vamos tirando con NWO, GAMING, TECH, SALSEO y PODCASTS</description>
-        <lastBuildDate>Thu, 04 Aug 2022 08:31:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 15:07:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>squido</generator>
         <atom:link href="https://web.comovas.es/rss" rel="self" type="application/rss+xml"/>
@@ -356,6 +356,7 @@ Puedes leer más sobre COSASDEV <a href="https://www.linkedin.com/feed/update/ur
 <li>Revelar la información particular, sensible o privada de las actividades del club, socios o de nuestros colaboradores asociados.</li>
 <li>Navegar por cualquier apartado de la Web que no sea accesible desde la página principal <a href="https://comovas.es">https://comovas.es</a> o su equivalente, en especial las páginas que ya no están actualizadas, que están en desarrollo o las que se sirven bajo el protocolo estándar http.</li>
 <li>Estalquear, escanear o indexar este sitio web fuera de las rutas indicadas en el punto anterior.</li>
+<li>Salvo que se indique lo contrario, la propiedad de las marcas comerciales mencionadas como SCRUM, CROSSFIT o PLAYSTATION pertenecen a sus respectivos dueños.</li>
 </ul>
 <h2 id="%C2%BFc%C3%B3mo-tratamos-los-datos%3F">¿Cómo tratamos los datos?</h2>
 <ol>
@@ -371,7 +372,7 @@ Puedes leer más sobre COSASDEV <a href="https://www.linkedin.com/feed/update/ur
 <thead>
 <tr>
 <th>TITULAR DE LA BASE DE DATOS:</th>
-<th>SERGIO RIGO GONZÁLEZ</th>
+<th>SERGIO R. GONZÁLEZ</th>
 </tr>
 </thead>
 </table>

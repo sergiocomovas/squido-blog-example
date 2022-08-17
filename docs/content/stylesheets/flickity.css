@@ -40,7 +40,18 @@ https://flickity.metafizzy.co
     cursor: -webkit-grabbing;
     cursor: grabbing;
   }
+
+  /* -- row full -- */
+   .row-full{
+    width: 100vw;
+    position: relative;
+    margin-left: -50vw;
+    margin-top: 20px;
+    left: 50%;
+    height: 600px;
+    }
   
+
   /* ---- flickity-button ---- */
   
   .flickity-button {
@@ -78,16 +89,16 @@ https://flickity.metafizzy.co
   /* ---- previous/next buttons ---- */
   
   .flickity-prev-next-button {
-    top: 50%;
-    width: 44px;
-    height: 44px;
-    border-radius: 50%;
+    top: 10%;
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
     /* vertically center */
     transform: translateY(-50%);
   }
   
-  .flickity-prev-next-button.previous { left: 10px; }
-  .flickity-prev-next-button.next { right: 10px; }
+  .flickity-prev-next-button.previous { left: 15px; }
+  .flickity-prev-next-button.next { right: 15px; }
   /* right to left */
   .flickity-rtl .flickity-prev-next-button.previous {
     left: auto;
@@ -112,8 +123,8 @@ https://flickity.metafizzy.co
   }
   /* big previous & next buttons */
   .flickity-prev-next-button {
-    width: 100px;
-    height: 100px;
+    width: 62px;
+    height: 62px;
   }
   /* icon color */
   .flickity-button-icon {

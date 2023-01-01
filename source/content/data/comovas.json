@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "img": "logo_alcalde.png",
+    "tipo": "Palma de Mallorca Alcalde",
+    "desc": "Socingeniería ética con JS y IA",
+    "url": "https://palma-alcalde.comovas.es"
+  },
+  {
+    "id": "2",
+    "img": "logo_palmainfo.png",
+    "tipo": "Palma Info y Sucesos Asombrosos",
+    "desc": "Comunidad y grupo de Telegram",
+    "url": "https://twitter.com/i/communities/1527611374611857410"
+  },
+  {
+    "id": "3",
+    "img": "logo_dev.png",
+    "tipo": "Dev",
+    "desc": "Tecnologías que me gustan",
+    "url": "https://cosasdev.commovas.es"
+  },
+  {
+    "id": "4",
+    "img": "logo_sergiocomovas.png",
+    "tipo": "@SergioComoVas",
+    "desc": "Cuenta de tuiter principal",
+    "url": "https://twitter.com/sergiocomovas"
+  },
+  {
+    "id": "5",
+    "img": "logo_pirata.png",
+    "tipo": "@xxxComoVas",
+    "desc": "Cuenta de tuiter secundaria",
+    "url": "https://twitter.com/xxxcomovas"
+  },
+  {
+    "id": "6",
+    "img": "logo_ayudantestream.png",
+    "tipo": "Ayudante Stream",
+    "desc": "Soporte para nuevos Streamers",
+    "url": "https://ayudantestream.com"
+  }
+]

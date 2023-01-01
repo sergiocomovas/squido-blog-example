@@ -17,7 +17,7 @@ mainimage: '../content/images/posts/20220803161405.png'
 
 Ver [aquí](https://www.linkedin.com/in/srgrigo/recent-activity/posts/)
 
---- 
+---
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6949302375438282752" height="398" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
 
@@ -46,4 +46,3 @@ Ver [aquí](https://www.linkedin.com/in/srgrigo/recent-activity/posts/)
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6935700675091681280" height="378" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
 
 ---
-

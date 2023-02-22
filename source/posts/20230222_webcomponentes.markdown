@@ -14,7 +14,11 @@ tags:
   - 2023
 mainimage: '../content/images/posts/20230222184547.png'
 ---
->![Componentes web sin aditivos](..\content\images\posts\20230222204632.png)  
+
+<figure>
+<img src="..\content\images\posts\20230222204632.png">
+</figure>
+
 >¡Hola! En este artículo voy a hablar sobre los componentes web, qué son y por qué son útiles. También explicaré cómo funcionan los custom elements, que son una forma de crear etiquetas HTML personalizadas para renderizar componentes web. Además, hablaré sobre cómo se pueden crear componentes web utilizando JavaScript vanilla, así como utilizando librerías como LitElement de Google.
 
 ## Componentes Web: Qué son y por qué son útiles

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://web.comovas.es</id>
     <title>COMOVAS | 『CØMO』『VAS』.ES |</title>
-    <updated>2023-02-22T20:04:47.635Z</updated>
+    <updated>2023-02-22T20:15:02.149Z</updated>
     <generator>squido</generator>
     <link rel="alternate" href="https://web.comovas.es"/>
     <link rel="self" href="https://web.comovas.es/atom"/>
@@ -14,9 +14,11 @@
         <link href="https://web.comovas.es/webcomonents/"/>
         <updated>2022-10-31T12:33:00.000Z</updated>
         <summary type="html"><![CDATA[Descubre el motivo por los que ahorras tiempo usando Componentes Web incluso si no usas compiladores.]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p><img src="..%5Ccontent%5Cimages%5Cposts%5C20230222204632.png" alt="Componentes web sin aditivos"><br>
-¡Hola! En este artículo voy a hablar sobre los componentes web, qué son y por qué son útiles. También explicaré cómo funcionan los custom elements, que son una forma de crear etiquetas HTML personalizadas para renderizar componentes web. Además, hablaré sobre cómo se pueden crear componentes web utilizando JavaScript vanilla, así como utilizando librerías como LitElement de Google.</p>
+        <content type="html"><![CDATA[<figure>
+<img src="..\content\images\posts\20230222204632.png">
+</figure>
+<blockquote>
+<p>¡Hola! En este artículo voy a hablar sobre los componentes web, qué son y por qué son útiles. También explicaré cómo funcionan los custom elements, que son una forma de crear etiquetas HTML personalizadas para renderizar componentes web. Además, hablaré sobre cómo se pueden crear componentes web utilizando JavaScript vanilla, así como utilizando librerías como LitElement de Google.</p>
 </blockquote>
 <h2 id="componentes-web%3A-qu%C3%A9-son-y-por-qu%C3%A9-son-%C3%BAtiles">Componentes Web: Qué son y por qué son útiles</h2>
 <p>Los <strong>componentes web</strong> son elementos de una página web que encapsulan una funcionalidad específica y se pueden reutilizar en diferentes páginas o aplicaciones web. Al crear componentes web, se pueden reducir la cantidad de código repetitivo que se utiliza en una página web y, por lo tanto, se puede mejorar la <strong>mantenibilidad</strong> y la <strong>escalabilidad</strong> de la aplicación.</p>

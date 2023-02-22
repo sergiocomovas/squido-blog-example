@@ -47,58 +47,8 @@ margin: 0px !important; padding: 5px !important; text-overflow:ellipsis !importa
 </article>
 
 <!-- INICIO DISEÑO NUEVO Flickity-->
-<div class="carousel row-full" data-flickity='{ "groupCells": 2, "freeScroll": true, "wrapAround": true, "cellAlign": "right" }'>
+<div class="carousel row-full" data-flickity='{ "groupCells": 1, "freeScroll": true, "wrapAround": true, "cellAlign": "right" }'>
     
-<!-- Enlaces importantes -->
-  <div class="carousel-cell is-initial-select" ><section>
-    <aside style="height: 515px; border: 1px solid var(--color-secondary); background-color: var(--color-secondary-accent)">
-          <span>
-            ⚙️
-          </span>
-
-          <h3>Dev; fronts:</h3>
-          <ul>
-            <li><a href="https://cosasdev.comovas.es/" target="_blank">React: Página Principal</a></li>
-            <li><a href="https://sidet.cosasdev.comovas.es/" target="_blank">Vue: Test técnico para empresa balear</a></li>
-            <li><a href="https://micro.cosasdev.comovas.es/" target="_blank">Svelte: Laboratorios de Svelte JS</a></li>
-            <li><a href="http://astroweb.comovas.es/" target="_blank">Astro: Nueva web Proyecto</a></li>
-          </ul>
-          <h3>Dev; backs:</h3>
-          <ul>
-          <li><a href="https://tbot.comovas.es/" target="_blank">🔐PHP: CodeIgniter Tbot</a></li>
-          <li><a href="https://express.cosasdev.comovas.es" target="_blank">🔐NODE (API): Express.js</a></li>
-          <li><a href="https://sbot.cosasdev.comovas.es" target="_blank">🔐NODE (Headless CMS): Strapi Sbot</a></li>
-          <li><a href="https://express.cosasdev.comovas.es" target="_blank">🔐NODE (Headless CMS): Gsx2json Gbot</a></li>
-          <li><a href="https://telegraph.comovas.es" target="_blank">🔐NODE (Headless CMS): Telegraf</a></li>
-          </ul>
-    </aside>
-  </section></div>
-
-    <div class="carousel-cell is-initial-select" ><section>
-    <aside style="height: 515px; border: 1px solid var(--color-secondary); background-color: var(--color-secondary-accent)">
-          <span>
-            📌
-          </span>
-          <h3>Redes Sociales:</h3>
-          <ul> 
-            <li><a href="https://www.linkedin.com/in/srgrigo/" target="_blank">Linkedin</a></li>
-            <li><a href="https://github.com/sergiocomovas" target="_blank">Github</a></li>
-            <!--<li><a href="https://twitter.com/sergiocomovas" target="_blank">Twitter (Cuenta Personal)</a></li>-->
-            <li><a href="https://twitch.tv/sergiocomovas" target="_blank">Twitch</a></li>
-          </ul>
-          <h3>Telegram:</h3>
-          <ul>
-            <li><a href="https://t.me/canalpirata" target="_blank">Telegram: Canal Pirata</a></li>
-            <li><a href="https://t.me/chatpirata" target="_blank">Telegram: Chat Pirata</a></li>  
-          </ul>
-          <h3>Referidos:</h3>
-          <ul>
-            <li><a href="https://preply.com/es/?pref=MTEwMTEwMg==&id=1672603349.390458" target="_blank">Preply: clases de inglés</a></li>
-          </ul>
-
-        
-    </aside>
-  </section></div>
 
  <!-- Últimas Entradas -->
   {{#each posts}}
@@ -131,7 +81,58 @@ background: linear-gradient(0deg, var(--color-bg100) 2%, var(--color-bg) 3%, var
           </div>
     </aside>
   </section></div>
-  {{/each}}
+  {{/each}}<!-- Fin útlimas Entradas -->
+
+  <!--enlaces importantes-->
+  <div class="carousel-cell" ><section>
+  <aside style="height: 515px; border: 1px solid var(--color-secondary); background-color: var(--color-secondary-accent)">
+          <span>
+            ⚙️
+          </span>
+
+          <h3>Dev; fronts:</h3>
+          <ul>
+            <li><a href="https://cosasdev.comovas.es/" target="_blank">React: Página Principal</a></li>
+            <li><a href="https://sidet.cosasdev.comovas.es/" target="_blank">Vue: Test técnico para empresa balear</a></li>
+            <li><a href="https://micro.cosasdev.comovas.es/" target="_blank">Svelte: Laboratorios de Svelte JS</a></li>
+            <li><a href="http://astroweb.comovas.es/" target="_blank">Astro: Nueva web Proyecto</a></li>
+          </ul>
+          <h3>Dev; backs:</h3>
+          <ul>
+          <li><a href="https://tbot.comovas.es/" target="_blank">🔐PHP: CodeIgniter Tbot</a></li>
+          <li><a href="https://express.cosasdev.comovas.es" target="_blank">🔐NODE (API): Express.js</a></li>
+          <li><a href="https://sbot.cosasdev.comovas.es" target="_blank">🔐NODE (Headless CMS): Strapi Sbot</a></li>
+          <li><a href="https://express.cosasdev.comovas.es" target="_blank">🔐NODE (Headless CMS): Gsx2json Gbot</a></li>
+          <li><a href="https://telegraph.comovas.es" target="_blank">🔐NODE (Headless CMS): Telegraf</a></li>
+          </ul>
+  </aside>
+  </section></div>
+
+    <div class="carousel-cell" ><section>
+    <aside style="height: 515px; border: 1px solid var(--color-secondary); background-color: var(--color-secondary-accent)">
+          <span>
+            📌
+          </span>
+          <h3>Redes Sociales:</h3>
+          <ul> 
+            <li><a href="https://www.linkedin.com/in/srgrigo/" target="_blank">Linkedin</a></li>
+            <li><a href="https://github.com/sergiocomovas" target="_blank">Github</a></li>
+            <!--<li><a href="https://twitter.com/sergiocomovas" target="_blank">Twitter (Cuenta Personal)</a></li>-->
+            <li><a href="https://twitch.tv/sergiocomovas" target="_blank">Twitch</a></li>
+          </ul>
+          <h3>Telegram:</h3>
+          <ul>
+            <li><a href="https://t.me/canalpirata" target="_blank">Telegram: Canal Pirata</a></li>
+            <li><a href="https://t.me/chatpirata" target="_blank">Telegram: Chat Pirata</a></li>  
+          </ul>
+          <h3>Referidos:</h3>
+          <ul>
+            <li><a href="https://preply.com/es/?pref=MTEwMTEwMg==&id=1672603349.390458" target="_blank">Preply: clases de inglés</a></li>
+          </ul>
+
+        
+    </aside>
+  </section></div>
 
 
 </div><!--div del carrusel-->

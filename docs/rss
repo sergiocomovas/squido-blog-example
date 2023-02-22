@@ -4,10 +4,119 @@
         <title>COMOVAS | 『CØMO』『VAS』.ES |</title>
         <link>https://web.comovas.es</link>
         <description>¿Cómo vas? Nosotros vamos tirando con NWO, GAMING, TECH, SALSEO y PODCASTS</description>
-        <lastBuildDate>Mon, 02 Jan 2023 19:58:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 20:04:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>squido</generator>
         <atom:link href="https://web.comovas.es/rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Componentes Web - Lit - WebComponents - Solid - Alpine...]]></title>
+            <link>https://web.comovas.es/webcomonents/</link>
+            <guid>https://web.comovas.es/webcomonents/</guid>
+            <pubDate>Mon, 31 Oct 2022 12:33:00 GMT</pubDate>
+            <description><![CDATA[Descubre el motivo por los que ahorras tiempo usando Componentes Web incluso si no usas compiladores.]]></description>
+            <content:encoded><![CDATA[<blockquote>
+<p><img src="..%5Ccontent%5Cimages%5Cposts%5C20230222204632.png" alt="Componentes web sin aditivos"><br>
+¡Hola! En este artículo voy a hablar sobre los componentes web, qué son y por qué son útiles. También explicaré cómo funcionan los custom elements, que son una forma de crear etiquetas HTML personalizadas para renderizar componentes web. Además, hablaré sobre cómo se pueden crear componentes web utilizando JavaScript vanilla, así como utilizando librerías como LitElement de Google.</p>
+</blockquote>
+<h2 id="componentes-web%3A-qu%C3%A9-son-y-por-qu%C3%A9-son-%C3%BAtiles">Componentes Web: Qué son y por qué son útiles</h2>
+<p>Los <strong>componentes web</strong> son elementos de una página web que encapsulan una funcionalidad específica y se pueden reutilizar en diferentes páginas o aplicaciones web. Al crear componentes web, se pueden reducir la cantidad de código repetitivo que se utiliza en una página web y, por lo tanto, se puede mejorar la <strong>mantenibilidad</strong> y la <strong>escalabilidad</strong> de la aplicación.</p>
+<p>Los componentes web son elegidos por los equipos de desarrollo por varias razones. En trabajos complejos con mucha incertidumbre, es importante trabajar con <strong>sprints cortos</strong> de tiempo y entregar un <strong>MVP</strong> (Producto Mínimo Viable) a tu cliente o gerente de la empresa para generar valor constantemente. Esto permite obtener retroalimentación temprana y constante de los interesados, lo que puede ayudar a ajustar y refinar el producto a medida que se desarrolla. Además, en proyectos complejos, es probable que surjan nuevos requisitos y cambios constantemente: la filosofía <strong>Scrum</strong>, que es un marco de trabajo ligero y flexible, puede permitir una mayor flexibilidad para manejar estos cambios.</p>
+<h2 id="custom-elements">Custom Elements</h2>
+<p>Los <strong>Custom Elements</strong> son una característica de HTML que permiten crear <strong>etiquetas personalizadas</strong>. Estas etiquetas personalizadas se pueden utilizar para renderizar componentes web. Por convención, las etiquetas personalizadas se nombran utilizando un guión (-) para separar las palabras. Por ejemplo, un elemento personalizado para un reproductor de música podría llamarse <code>&lt;music-player&gt;</code>. Los Custom Elements se pueden crear utilizando JavaScript y se pueden registrar con el navegador utilizando el método <code>customElements.define()</code>.</p>
+<h2 id="javascript-vanilla-vs-lit">JavaScript Vanilla vs Lit</h2>
+<p>JavaScript Vanilla es el lenguaje de programación que entienden los navegadores web. Con JavaScript Vanilla, es posible crear componentes web utilizando la API de Custom Elements. Sin embargo, hay librerías y frameworks disponibles que pueden facilitar la creación de componentes web. <strong>Lit</strong> es una de esas librerías, creada por Google, que permite crear componentes web utilizando JavaScript, pero con una sintaxis más simple y menos verbosa que la API de Custom Elements.</p>
+<h2 id="lit.dev">Lit.dev</h2>
+<p>Lit está disponible como una biblioteca JavaScript que se puede utilizar en cualquier proyecto web. A diferencia de otras bibliotecas, Lit se puede utilizar sin Node.js, sin compilar o precompilar. Para utilizar <strong>LitElement</strong>, solo es necesario importar el archivo JavaScript en la página web y utilizar la directiva <code>type=&quot;module&quot;</code> al declararlo en el HTML. Cuando se utiliza <code>defer</code> dentro de la etiqueta <code>&lt;script&gt;</code>, el archivo JavaScript se carga en segundo plano mientras la página se está renderizando.</p>
+<h2 id="ejemplo-pr%C3%A1ctico">Ejemplo práctico</h2>
+<iframe src="https://codesandbox.io/embed/componentes-web-forked-b16e4v?fontsize=14&hidenavigation=1&theme=dark"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="Componentes Web (forked)"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+   ></iframe>
+<p>Para ilustrar lo que hemos visto, he creado un ejemplo práctico que puedes encontrar en mi repositorio de GitHub.</p>
+<ul>
+<li><a href="https://github.com/sergiocomovas/2023-02-componentes-web">Repositorio del proyecto</a></li>
+<li><a href="https://palmabot.comovas.es/webcomp/">Proyecto subido al servidor</a></li>
+</ul>
+<p>El ejemplo parte de un archivo base de HTML creado con la abreviación emmet (<code>html:5</code> en el editor de código). En este ejemplo, he creado dos componentes web diferentes: uno nativo y otro con Lit.</p>
+<p>Para crear el componente nativo, he utilizado el elemento <code>&lt;webcom-nativo&gt;</code> y le he pasado un atributo con un mensaje personalizado:</p>
+<pre><code class="language-html"><span class="hljs-tag">&lt;<span class="hljs-name">webcom-nativo</span>
+  <span class="hljs-attr">mensaje</span>=<span class="hljs-string">&quot;Esto es un componente Web Nativo 🧡&quot;</span>
+&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">webcom-nativo</span>&gt;</span>
+</code></pre>
+<p>Para el componente Lit, he utilizado el elemento <webcom-lit> y le he pasado un atributo con el nombre del componente:</p>
+<pre><code class="language-html"><span class="hljs-tag">&lt;<span class="hljs-name">webcom-lit</span> <span class="hljs-attr">nombre</span>=<span class="hljs-string">&quot;Componente Lit&quot;</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">webcom-lit</span>&gt;</span>
+</code></pre>
+<p>Además, para añadir un poco más de complejidad, he utilizado la biblioteca Alpine.js para agregar una pequeña funcionalidad que carga datos de un archivo JSON:</p>
+<pre><code class="language-html"><span class="hljs-tag">&lt;<span class="hljs-name">div</span>
+  <span class="hljs-attr">x-data</span>=<span class="hljs-string">&quot;{ personas: [] }&quot;</span>
+  <span class="hljs-attr">x-init</span>=<span class="hljs-string">&quot;personas = await (await fetch(&#x27;/data/personas.json&#x27;)).json()&quot;</span>
+&gt;</span>
+</code></pre>
+<p>El resultado que puedo usar una <code>custom-tag</code> para buclear y, en definitiva, reutilizar el código que es lo que pretendía.</p>
+<p><strong>Cosas que no me han salido bien:</strong></p>
+<ul>
+<li>En la versión alojada el <a href="https://palmabot.comovas.es/webcomp/">servidor</a> he usado solidJs con literales en lugar de jsx, pero tuve problemas al alojar los scripts en mi servidor.  JSX es una extensión de JavaScript que permite escribir elementos de interfaz de usuario de manera similar a HTML.</li>
+<li>Otro intento fallido fue intentar encapsular Vue compilado en JS y utilizarlo como un elemento personalizado, pasándole un parámetro. También intenté utilizar la galería de petit-vue, pero no logré que funcionara correctamente.</li>
+</ul>
+<p>Aunque SolidJS tiene algunas características interesantes y Vue es una de mis herramientas favoritas para desarrollar aplicaciones web, en mi caso, no resultaron ser las mejores opción. Aprendí que, a veces, es necesario probar varias herramientas hasta encontrar la adecuada para cada proyecto.</p>
+<p><strong>Enlaces</strong></p>
+<table>
+<thead>
+<tr>
+<th>Título</th>
+<th>URL</th>
+<th>Explicación breve</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>JavaScript Template Literals</td>
+<td><a href="https://www.w3schools.com/JS//js_string_templates.asp">Link</a></td>
+<td>Una manera moderna de concatenar strings en JavaScript.</td>
+</tr>
+<tr>
+<td>Usar elementos personalizados en Web Components (JS)</td>
+<td><a href="https://developer.mozilla.org/es/docs/Web/Web_Components/Using_custom_elements">Link</a></td>
+<td>Tutorial sobre cómo crear elementos personalizados en Web Components con JS.</td>
+</tr>
+<tr>
+<td>Crea componentes reutilizables con Lit</td>
+<td><a href="https://www.youtube.com/watch?v=MUtSrXUh6T8">Link</a></td>
+<td>Tutorial en video sobre cómo crear componentes reutilizables con Lit.</td>
+</tr>
+<tr>
+<td>Tutorial interactivo de Lit</td>
+<td><a href="https://lit.dev/tutorials/intro-to-lit/">Link</a></td>
+<td>Tutorial interactivo para aprender a usar Lit.</td>
+</tr>
+<tr>
+<td>Opciones sin compilar de Solid JS</td>
+<td><a href="https://www.solidjs.com/guides/getting-started#opciones-sin-compilar">Link</a></td>
+<td>Documentación sobre las opciones sin compilar de Solid JS.</td>
+</tr>
+<tr>
+<td>Directiva x-init de Alpine JS</td>
+<td><a href="https://alpinejs.dev/directives/init">Link</a></td>
+<td>Documentación sobre cómo usar la directiva x-init de Alpine JS.</td>
+</tr>
+<tr>
+<td>Single File Components (SFC) en Vue.js</td>
+<td><a href="https://vuejs.org/guide/scaling-up/sfc.html">Link</a></td>
+<td>Tutorial sobre cómo usar Single File Components (SFC) en Vue.js.</td>
+</tr>
+<tr>
+<td>Petite Vue: una versión reducida de Vue.js para proyectos pequeños</td>
+<td><a href="https://github.com/vuejs/petite-vue">Link</a></td>
+<td>Petite Vue es una versión reducida de Vue.js para proyectos pequeños.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Conclusiones</strong></p>
+<p>Los componentes web son una forma efectiva de mejorar la escalabilidad y la mantenibilidad de una aplicación web. Al encapsular funcionalidades específicas en componentes web reutilizables, se puede reducir la cantidad de código repetitivo que se utiliza en una página web y, por lo tanto, mejorar la mantenibilidad y la escalabilidad de la aplicación. Siendo el equivalnete frontend a los microservicios del back.</p>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Astro JS el framework todo-en-uno que "hidrata" componentes.]]></title>
             <link>https://web.comovas.es/astrojs/</link>

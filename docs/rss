@@ -4,10 +4,58 @@
         <title>COMOVAS | 『CØMO』『VAS』.ES |</title>
         <link>https://web.comovas.es</link>
         <description>¿Cómo vas? Nosotros vamos tirando con NWO, GAMING, TECH, SALSEO y PODCASTS</description>
-        <lastBuildDate>Wed, 22 Feb 2023 20:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 17:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>squido</generator>
         <atom:link href="https://web.comovas.es/rss" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[¿TRABAJAR MENOS HORAS, PARA QUÉ?]]></title>
+            <link>https://web.comovas.es/teletrabajo, productividad, estrategia-laboral/</link>
+            <guid>https://web.comovas.es/teletrabajo, productividad, estrategia-laboral/</guid>
+            <pubDate>Mon, 10 Apr 2023 11:33:00 GMT</pubDate>
+            <description><![CDATA[Aprende sobre soluciones para mantener la productividad en un nuevo paradigma laboral donde se va a trabajar menos horas que nunca..]]></description>
+            <content:encoded><![CDATA[<figure><img src="../content/images/posts/20230410190023.png"></figure>
+<blockquote>
+<p><strong>¿Te imaginas trabajar cuatro días a la semana sin reducción de sueldo?</strong> Según una encuesta reciente, esta es la preferencia de muchos trabajadores pero también de EMPRESARIOS frente a la opción de teletrabajar cinco días a la semana de forma remota. Pero, ¿por qué esta elección no sorprende?</p>
+</blockquote>
+<h2 id="paranoia-de-la-productividad">Paranoia de la productividad</h2>
+<p>Detrás de ello se encuentra una creciente preocupación por la &quot;paranoia de la productividad&quot; por parte de los empresarios. Temen que los trabajadores remotos no sean tan eficientes como los que trabajan en la oficina. El problema real es la falta de preparación operacional de las empresas para organizar el trabajo en un entorno flexible y medir la productividad de los empleados. En otras palabras, las empresas simplemente no están adaptadas.</p>
+<blockquote>
+<p>La cantidad de horas que un trabajador dedica a su trabajo no necesariamente se traduce en mayor productividad. De hecho, desde mi experiencia, he notado que un trabajador puede ser igual de eficiente trabajando 32 horas a la semana que trabajando 40. El verdadero desafío es crear un entorno laboral saludable y motivador que evite que los empleados caigan en la apatía y la desidia.</p>
+</blockquote>
+<h2 id="sprints-en-lugar-de-horas-trabajadas">Sprints en lugar de horas trabajadas</h2>
+<p>La medida tradicional de la productividad, basada en el número de horas trabajadas, no tiene en cuenta la calidad y los resultados del trabajo. Por lo que propongo el trabajar en &quot;sprints&quot; o periodos de trabajo concentrado, con un enfoque en la finalización de tareas específicas antes de una fecha límite y <strong>designar a una persona del equipo para filtrar las solicitudes vía chat directo para limitar distracciones y nuevas órdenes durante dicho periodo</strong>. En cuanto a herramientas tecnológicas, recomiendo el uso de <strong>Microsoft Teams</strong>, que cuenta con inteligencia artificial y pizarras colaborativas de &quot;LOOP&quot; para consultar rápidamente los estados del proyecto.</p>
+<figure><img src="../content/images/posts/20230410190131.png"></figure>
+<h2 id="adaptarse-a-la-inversi%C3%B3n-de-la-pir%C3%A1mide-poblacional">Adaptarse a la inversión de la pirámide poblacional</h2>
+<p><strong>En realidad, no debería ser importante cambiar el paradigma en los entornos laborales, pero hay un problema:</strong> la inversión de la pirámide poblacional actual significa que la fuerza laboral depende cada vez más de los mayores de 55 años. Por lo tanto, es necesario adaptar y reducir la jornada laboral, brindando flexibilidad. Esto también debería beneficiar a los jóvenes al ofrecerles más tiempo para conciliar y fomentar la natalidad. Además, no se debe olvidar la importancia de la formación continua de los trabajadores, ya que esto será más necesario que nunca para mantener la competitividad de la empresa. Todo esto no puede ser ignorado, y es el momento de pensar en estrategias tecnológicas modernas como las que he propuesto en el artículo para que el futuro sea más &quot;flexible&quot; para todos.</p>
+<table>
+<thead>
+<tr>
+<th>Fuente</th>
+<th>Enlace URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Entre teletrabajar cinco días a la semana e ir a la oficina cuatro días, los trabajadores lo tienen claro</td>
+<td><a href="https://www.xataka.com/empresas-y-economia/trabajadores-prefieren-trabajar-cuatro-dias-forma-presencial-que-cinco-dias-regimen-hibrido-teletrabajo">Link</a></td>
+</tr>
+<tr>
+<td>Microsoft Loop</td>
+<td><a href="https://www.microsoft.com/es-es/microsoft-loop?ms.url=microsoftcommicrosoft-loop">Link</a></td>
+</tr>
+<tr>
+<td>Población española en 2022</td>
+<td><a href="https://twitter.com/datamania_em/status/1645003903870853121">Link</a></td>
+</tr>
+<tr>
+<td>Paranoia de la productividad</td>
+<td><a href="https://www.eleconomista.es/empleo/noticias/12177335/03/23/Que-es-la-paranoia-de-la-productividad-asi-puedes-reconocer-si-te-afecta.html">Link</a></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Componentes Web - Lit - WebComponents - Solid - Alpine...]]></title>
             <link>https://web.comovas.es/webcomonents/</link>

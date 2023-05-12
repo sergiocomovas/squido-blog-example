@@ -1,12 +1,5 @@
 [
   {
-    "id": "1",
-    "img": "logo_alcalde.png",
-    "tipo": "Palma de Mallorca Alcalde",
-    "desc": "Socingeniería ética con JS y IA",
-    "url": "https://palma-alcalde.comovas.es"
-  },
-  {
     "id": "2",
     "img": "logo_palmainfo.png",
     "tipo": "Palma Info y Sucesos Asombrosos",

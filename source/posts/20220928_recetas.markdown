@@ -3,6 +3,9 @@ title: Recetas que no quieres mirar.
 permalink: recetas
 description: Recetas Básicas
 date: '2022-09-02 13:33:00'
+hidden: true
+ignore: true
+visible: false
 tags: 
   - Recetas
   - Apuntes

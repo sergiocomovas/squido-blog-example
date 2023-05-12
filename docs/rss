@@ -4,14 +4,131 @@
         <title>COMOVAS | 『CØMO』『VAS』.ES |</title>
         <link>https://web.comovas.es</link>
         <description>¿Cómo vas? Nosotros vamos tirando con NWO, GAMING, TECH, SALSEO y PODCASTS</description>
-        <lastBuildDate>Mon, 10 Apr 2023 17:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 22:48:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>squido</generator>
         <atom:link href="https://web.comovas.es/rss" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Desplegando en AWS con DENO y DOCKER (FULL STACK)]]></title>
+            <link>https://web.comovas.es/desplegando_aws/</link>
+            <guid>https://web.comovas.es/desplegando_aws/</guid>
+            <pubDate>Sat, 13 May 2023 11:33:00 GMT</pubDate>
+            <description><![CDATA[Un reto para día de mi cumpleaños, que ya he superado..]]></description>
+            <content:encoded><![CDATA[<figure><img src="../content/images/posts/20230513000751.png"></figure>
+<blockquote>
+<p>En este artículo, compartiré mi experiencia al enfrentar el reto de desplegar DENO Fresh en un contenedor de AWS. Aunque no soy un experto en todas las tecnologías que utilicé, pude superar el desafío gracias a las herramientas y tecnologías que utilicé. <strong>En este artículo, explicaré cómo logré este objetivo y cómo esta experiencia me ha ayudado a mejorar mis habilidades como programador</strong>.</p>
+</blockquote>
+<h2 id="mi-experimento-con-deno-fresh.">Mi experimento con DENO FRESH.</h2>
+<p>Elegí &quot;DENO FRESH&quot; como plataforma para mi experimento de despliegue, a pesar de que es un mundo nuevo para mí y presenta diferencias significativas en comparación con NODE, VUE o QUASAR. En este entorno, levantar un servidor requiere indicar permisos y no hay paquetes, solo se llama a la galería por URL en un archivo de mapeo. Además, el lenguaje de programación es tipado, lo que significa que se deben utilizar interfaces para indicar el tipo de variable, ya sea una cadena o un número.</p>
+<table>
+<thead>
+<tr>
+<th>URL</th>
+<th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://dev.to/j471n/typescript-interface-3748">LINK</a></td>
+<td>Artículo sobre interfaces en TypeScript</td>
+</tr>
+<tr>
+<td><a href="https://fresh.deno.dev/docs/introduction">LINK</a></td>
+<td>Documentación oficial de DENO Fresh</td>
+</tr>
+<tr>
+<td><a href="https://deno.com/manual@v1.33.3/runtime/http_server_apis">LINK</a></td>
+<td>Documentación oficial de DENO sobre el uso del servidor HTTP</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=h1U7Iq5zgkc">LINK</a></td>
+<td>Video tutorial sobre el uso de DENO</td>
+</tr>
+</tbody>
+</table>
+<h2 id="explorando-las-diferencias-de-deno-fresh-frente-a-otros-frameworks.">Explorando las diferencias de DENO FRESH frente a otros frameworks.</h2>
+<p>Una de las características de DENO FRESH es que utiliza PREACT. Para ejemplificar el uso de SIGNALS, respeté la arquitectura de &quot;ISLAS&quot; usada para mostrar fragmentos dinámicos de la página. En cuanto a los estilos, utilicé Twind, el &quot;clon&quot; de Tailwind, lo que supuso descartar mis experimentos con la API de view-transitions que quería integrar en el proyecto. Sin embargo, aún puedes encontrar los ejemplos realizados en los enlaces.</p>
+<table>
+<thead>
+<tr>
+<th>URL</th>
+<th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://preactjs.com/guide/v10/components">LINK</a></td>
+<td>Documentación oficial de Preact sobre componentes</td>
+</tr>
+<tr>
+<td><a href="https://www.builder.io/blog/usesignal-is-the-future-of-web-frameworks">LINK</a></td>
+<td>Artículo sobre SIGNALS en Builder.io</td>
+</tr>
+<tr>
+<td><a href="https://preactjs.com/guide/v10/signals">LINK</a></td>
+<td>Documentación oficial de Preact sobre el uso de SIGNALS</td>
+</tr>
+<tr>
+<td><a href="https://twind.dev/">LINK</a></td>
+<td>Sitio web oficial de Twind</td>
+</tr>
+<tr>
+<td><a href="https://codesandbox.io/s/view-transitions-api-dxfxdg">LINK</a></td>
+<td>Ejemplos de uso de la API view-transitions en CodeSandbox</td>
+</tr>
+</tbody>
+</table>
+<h2 id="desplegando-una-aplicaci%C3%B3n-con-deno-fresh-y-docker-en-aws.">Desplegando una aplicación con DENO FRESH y Docker en AWS.</h2>
+<p>Para hacer el deploy, necesité investigar sobre el uso de Docker e instalarlo. Además, aprendí sobre las imágenes de Docker. Sin embargo, antes de esto, tuve que configurar el CLI de AWS, lo que implicó generar un usuario en AIM y asignarle permisos. Esta fue la parte más complicada del experimento, ya que en realidad había dos módulos de AWS implicados: Elastic Container Registry y Elastic Container Service. También fue necesario abrir el puerto 8000.</p>
+<figure><img src="../content/images/posts/20230512233830.png"></figure>
+<table>
+<thead>
+<tr>
+<th>URL</th>
+<th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://fresh.deno.dev/docs/concepts/deployment">LINK</a></td>
+<td>Documentación oficial de DENO Fresh sobre el despliegue</td>
+</tr>
+<tr>
+<td><a href="https://hub.docker.com/r/denoland/deno">LINK</a></td>
+<td>Imagen de Docker oficial de DENO</td>
+</tr>
+<tr>
+<td><a href="https://aws.amazon.com/es/cli">LINK</a></td>
+<td>Sitio web oficial de AWS CLI</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=TRLK6ZNpjB8">LINK</a></td>
+<td>Video tutorial sobre cómo usar AWS ECR/ECS</td>
+</tr>
+</tbody>
+</table>
+<h2 id="un-vistazo-al-futuro-del-desarrollo-web-en-contenedores.">Un vistazo al futuro del desarrollo web en contenedores.</h2>
+<p>En general, estoy emocionado por el futuro de DENO y las posibilidades que ofrece para el desarrollo web moderno y el despliegue en servidores en contenedores que ya contienen todo lo necesario para funcionar incluído la distribución de linux (en el caso DENO, un Debian por defecto) ¡Gracias por leer este artículo y espero que te haya resultado útil e interesante! Por cierto: este el resultado final.</p>
+<table>
+<thead>
+<tr>
+<th>URL</th>
+<th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/sergiocomovas/deno_proyecto.">LINK</a></td>
+<td>Repositorio de GitHub del proyecto de DENO</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[¿TRABAJAR MENOS HORAS, PARA QUÉ?]]></title>
-            <link>https://web.comovas.es/teletrabajo, productividad, estrategia-laboral/</link>
-            <guid>https://web.comovas.es/teletrabajo, productividad, estrategia-laboral/</guid>
+            <link>https://web.comovas.es/teletrabajo/</link>
+            <guid>https://web.comovas.es/teletrabajo/</guid>
             <pubDate>Mon, 10 Apr 2023 11:33:00 GMT</pubDate>
             <description><![CDATA[Aprende sobre soluciones para mantener la productividad en un nuevo paradigma laboral donde se va a trabajar menos horas que nunca..]]></description>
             <content:encoded><![CDATA[<figure><img src="../content/images/posts/20230410190023.png"></figure>
@@ -190,77 +307,6 @@ Conocí &quot;Astro&quot;, un framework todo-en-uno, por casualidad y me ha gust
 <li>[ ] Buscar en Internet fuentes tipo <code>text-rendering: optimizeLegibility;</code></li>
 <li>[ ] Replicar logo de <a href="https://twitter.com/_davideast/status/1586002781777039360">VITE</a></li>
 </ul>
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Recetas que no quieres mirar.]]></title>
-            <link>https://web.comovas.es/recetas/</link>
-            <guid>https://web.comovas.es/recetas/</guid>
-            <pubDate>Fri, 02 Sep 2022 11:33:00 GMT</pubDate>
-            <description><![CDATA[Recetas Básicas]]></description>
-            <content:encoded><![CDATA[<blockquote>
-<p>A modo de prueba, pequeños apuntes y recetas que me parecen interesantes.</p>
-</blockquote>
-<h2 id="cangreburger">CANGREBURGER</h2>
-<p>Ingredientes:</p>
-<ul>
-<li>Pulpa de cangrejo o surimi</li>
-<li>Sal y pimienta</li>
-<li>Ajo en polvo</li>
-<li>Oregano (media cucharada)</li>
-<li>Carne de res</li>
-</ul>
-<p>Mezclar todos los materiales
-Hacer bolas del mismo tamaño
-Para estirar: bolsa y aplastar hasta conseguir un mismo grosor y ajustarlo al tamaño del pan.</p>
-<p>Ingredientes:</p>
-<ul>
-<li>Cebolla Morada para cortar circularmente y dejar reposar en agua para que no amargue y cambiar el agua 2 veces.</li>
-<li>Tomate</li>
-<li>Lechuga</li>
-<li>Pepinillos en bote para cortar hexagonalmente.</li>
-</ul>
-<p>Ingredientes:</p>
-<ul>
-<li>Pan de hamburgesas</li>
-<li>Mantequilla para dorar el pan</li>
-<li>Queso en lonchas.</li>
-</ul>
-<p>Para armar:</p>
-<ul>
-<li>Carne.</li>
-<li>Lechuga</li>
-<li>Queso.</li>
-<li>Cebolla</li>
-<li>Tomate</li>
-<li>Ketchup y mostaza.</li>
-<li>Pepinillo.</li>
-<li>Añadir mariconada.</li>
-</ul>
-<h2 id="bolitas-de-patata">BOLITAS DE PATATA</h2>
-<ul>
-<li>Patatas enteras o peladas y cocer durante 25 min.</li>
-<li>Cortarlas en trocitos o cubitos.</li>
-<li>Echar sal generosamente y pimienta negra.</li>
-<li>Queso rayado curado.</li>
-<li>Mantequilla a temperatura ambiente.</li>
-<li>Aplastarlo todo para conseguir una masa.</li>
-</ul>
-<p>Para hacer la bolistas:</p>
-<ul>
-<li>Con la masa de una canica hacer una bolita.</li>
-<li>Hacer rodar con harina de trigo, huevo batido y galleta rayada.</li>
-</ul>
-<p>Se congelan durante 10 minutos o en el frigo toda la noche.</p>
-<p>Freir en pequeñas tandas durante 1 minuto en aceite bien caliente.</p>
-<p>Se retiran y se colocan en papel absorvente.</p>
-<h2 id="gelatina-mosaico">GELATINA MOSAICO</h2>
-<p>Ingredientes:</p>
-<ul>
-<li>3 sobres de gelatina</li>
-<li>190 gramos de queso crema</li>
-</ul>
-<p>Hacer la gelatina con 2 sobres con vozka, con el tercero mezclar con el queso crema.</p>
 ]]></content:encoded>
         </item>
         <item>
@@ -588,7 +634,7 @@ Puedes leer más sobre COSASDEV <a href="https://www.linkedin.com/feed/update/ur
 <p>Para realizar esta web usamos tecnologías de terceros. La premisa para usarlas es que sean códigos libres y minimalistas. Aquí te las menciono:</p>
 <h3 id="blog">BLOG</h3>
 <ul>
-<li>He usado <a href="https://docs.squido.org/" target="_blank">SQUIDO</a> para realizar la base del blog. Los estilos de CSS son de <a target="_blank" href="https://andybrewer.github.io/mvp/">MVPCSS</a>.</li>
+<li>He usado <a href="https://squido-docs.markmoffat.com/" target="_blank">SQUIDO</a> para realizar la base del blog. Los estilos de CSS son de <a target="_blank" href="https://andybrewer.github.io/mvp/">MVPCSS</a>.</li>
 </ul>
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="sergiocomovas/4" data-width="100%"></script>
 <h3 id="alojamiento">ALOJAMIENTO</h3>

@@ -51,7 +51,7 @@ Para realizar esta web usamos tecnologías de terceros. La premisa para usarlas 
 
 ### BLOG
 
-- He usado <a href="https://docs.squido.org/" target="_blank">SQUIDO</a> para realizar la base del blog. Los estilos de CSS son de <a target="_blank" href="https://andybrewer.github.io/mvp/">MVPCSS</a>.
+- He usado <a href="https://squido-docs.markmoffat.com/" target="_blank">SQUIDO</a> para realizar la base del blog. Los estilos de CSS son de <a target="_blank" href="https://andybrewer.github.io/mvp/">MVPCSS</a>.
 
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="sergiocomovas/4" data-width="100%"></script>
 

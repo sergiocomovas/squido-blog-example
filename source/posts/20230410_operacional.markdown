@@ -1,6 +1,6 @@
 ---
 title: ¿TRABAJAR MENOS HORAS, PARA QUÉ?
-permalink: teletrabajo, productividad, estrategia-laboral
+permalink: teletrabajo
 description: Aprende sobre soluciones para mantener la productividad en un nuevo paradigma laboral donde se va a trabajar menos horas que nunca.. 
 date: '2023-04-10 13:33:00'
 tags: 

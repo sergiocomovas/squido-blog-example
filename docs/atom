@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://web.comovas.es</id>
     <title>COMOVAS | 『CØMO』『VAS』.ES |</title>
-    <updated>2023-05-12T22:48:24.241Z</updated>
+    <updated>2023-08-25T08:42:04.638Z</updated>
     <generator>squido</generator>
     <link rel="alternate" href="https://web.comovas.es"/>
     <link rel="self" href="https://web.comovas.es/atom"/>
@@ -105,10 +105,14 @@
 <td><a href="https://www.youtube.com/watch?v=TRLK6ZNpjB8">LINK</a></td>
 <td>Video tutorial sobre cómo usar AWS ECR/ECS</td>
 </tr>
+<tr>
+<td><a href="https://dev.to/aws-builders/docker-aws-elastic-container-registry-ecr-3cln">LINK</a></td>
+<td>Docker 🐳, AWS Elastic Container Registry (ECR)</td>
+</tr>
 </tbody>
 </table>
 <h2 id="un-vistazo-al-futuro-del-desarrollo-web-en-contenedores.">Un vistazo al futuro del desarrollo web en contenedores.</h2>
-<p>En general, estoy emocionado por el futuro de DENO y las posibilidades que ofrece para el desarrollo web moderno y el despliegue en servidores en contenedores que ya contienen todo lo necesario para funcionar incluído la distribución de linux (en el caso DENO, un Debian por defecto) ¡Gracias por leer este artículo y espero que te haya resultado útil e interesante! Por cierto: este el resultado final.</p>
+<p>En general, estoy emocionado por el futuro de DENO y las posibilidades que ofrece para el desarrollo web moderno y el despliegue en servidores en contenedores que ya contienen todo lo necesario para funcionar incluido la distribución de Linux (en el caso DENO, un Debian por defecto) ¡Gracias por leer este artículo y espero que te haya resultado útil e interesante! Por cierto: este el resultado final.</p>
 <table>
 <thead>
 <tr>
@@ -687,7 +691,7 @@ Puedes leer más sobre COSASDEV <a href="https://www.linkedin.com/feed/update/ur
 <li>CUALQUIER PERSONA/ORGANISMO QUE ACCEDA A LOS DATOS ILÍCITAMENTE.</li>
 </ul>
 <h3 id="cookies%3A">COOKIES:</h3>
-<p>Las Cookies son pequeños archivos creados por este u otro sitio web y que se almacenan en la memoria local de tu dispositivo. Otras empresas de terceros usan Cookies queramos o no: estas son las empresas tecnológicas como las del grupo Paypal, Facebook, Twitter, Telegram o/y Google al enlazar sus publicaciones o usar sus servicios. Tu navegador tiene un apartado <em>COOKIES EN USO/PERMISOS PARA ESTE SITIO</em> para consultar que otras empresas almacenan datos en tu ordenador y bloquearlas si lo deseas.</p>
+<p>Las Cookies son pequeños archivos creados por este u otro sitio web y que se almacenan en la memoria local de tu dispositivo. Otras empresas de terceros usan Cookies queramos o no: estas son las empresas tecnológicas como las del grupo Paypal, Facebook, X (X Corp.), Telegram o/y Google al enlazar sus publicaciones o usar sus servicios. Tu navegador tiene un apartado <em>COOKIES EN USO/PERMISOS PARA ESTE SITIO</em> para consultar que otras empresas almacenan datos en tu ordenador y bloquearlas si lo deseas.</p>
 ]]></content>
     </entry>
 </feed>

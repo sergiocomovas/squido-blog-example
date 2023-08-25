@@ -103,4 +103,4 @@ Nosotros también podemos compartir tus datos con terceras personas. ESTAS SON:
  
 
 ### COOKIES:
-Las Cookies son pequeños archivos creados por este u otro sitio web y que se almacenan en la memoria local de tu dispositivo. Otras empresas de terceros usan Cookies queramos o no: estas son las empresas tecnológicas como las del grupo Paypal, Facebook, Twitter, Telegram o/y Google al enlazar sus publicaciones o usar sus servicios. Tu navegador tiene un apartado _COOKIES EN USO/PERMISOS PARA ESTE SITIO_ para consultar que otras empresas almacenan datos en tu ordenador y bloquearlas si lo deseas. 
+Las Cookies son pequeños archivos creados por este u otro sitio web y que se almacenan en la memoria local de tu dispositivo. Otras empresas de terceros usan Cookies queramos o no: estas son las empresas tecnológicas como las del grupo Paypal, Facebook, X (X Corp.), Telegram o/y Google al enlazar sus publicaciones o usar sus servicios. Tu navegador tiene un apartado _COOKIES EN USO/PERMISOS PARA ESTE SITIO_ para consultar que otras empresas almacenan datos en tu ordenador y bloquearlas si lo deseas. 

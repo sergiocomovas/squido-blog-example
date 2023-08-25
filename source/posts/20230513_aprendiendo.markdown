@@ -62,10 +62,11 @@ Para hacer el deploy, necesité investigar sobre el uso de Docker e instalarlo. 
 | [LINK](https://hub.docker.com/r/denoland/deno) | Imagen de Docker oficial de DENO |
 | [LINK](https://aws.amazon.com/es/cli) | Sitio web oficial de AWS CLI |
 | [LINK](https://www.youtube.com/watch?v=TRLK6ZNpjB8) | Video tutorial sobre cómo usar AWS ECR/ECS |
+| [LINK](https://dev.to/aws-builders/docker-aws-elastic-container-registry-ecr-3cln) | Docker 🐳, AWS Elastic Container Registry (ECR)
 
 ## Un vistazo al futuro del desarrollo web en contenedores.
 
-En general, estoy emocionado por el futuro de DENO y las posibilidades que ofrece para el desarrollo web moderno y el despliegue en servidores en contenedores que ya contienen todo lo necesario para funcionar incluído la distribución de linux (en el caso DENO, un Debian por defecto) ¡Gracias por leer este artículo y espero que te haya resultado útil e interesante! Por cierto: este el resultado final.
+En general, estoy emocionado por el futuro de DENO y las posibilidades que ofrece para el desarrollo web moderno y el despliegue en servidores en contenedores que ya contienen todo lo necesario para funcionar incluido la distribución de Linux (en el caso DENO, un Debian por defecto) ¡Gracias por leer este artículo y espero que te haya resultado útil e interesante! Por cierto: este el resultado final.
 
 | URL | Descripción |
 | --- | ----------- |

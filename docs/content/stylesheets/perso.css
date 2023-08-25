@@ -94,12 +94,10 @@ a.scrollele {
 }
 
 a.scrollele:last-child{
-  color: orchid;
   margin-right: 100px !important;
 }
 
 a.scrollele:first-child{
-  color: orchid;
   margin-left: 100px !important;
 }
 

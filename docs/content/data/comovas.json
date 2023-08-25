@@ -17,21 +17,14 @@
     "id": "4",
     "img": "logo_sergiocomovas.png",
     "tipo": "@SergioComoVas",
-    "desc": "Cuenta de tuiter principal",
-    "url": "https://twitter.com/sergiocomovas"
+    "desc": "Cuenta de 𝕏 principal",
+    "url": "https://x.com/sergiocomovas"
   },
   {
     "id": "5",
     "img": "logo_pirata.png",
     "tipo": "@xxxComoVas",
-    "desc": "Cuenta de tuiter secundaria",
-    "url": "https://twitter.com/xxxcomovas"
-  },
-  {
-    "id": "6",
-    "img": "logo_ayudantestream.png",
-    "tipo": "Ayudante Stream",
-    "desc": "Soporte para nuevos Streamers",
-    "url": "https://ayudantestream.com"
+    "desc": "Cuenta de 𝕏 secundaria",
+    "url": "https://x.com/xxxcomovas"
   }
 ]
